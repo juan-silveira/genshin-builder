@@ -1,0 +1,1911 @@
+[
+  {
+    "name": "Raiden Nacional",
+    "slots": [
+      [
+        "Raiden Shogun"
+      ],
+      [
+        "Xiangling"
+      ],
+      [
+        "Xingqiu",
+        "Yelan"
+      ],
+      [
+        "Bennett"
+      ]
+    ],
+    "carry": "Raiden Shogun",
+    "tags": [
+      "Nacional",
+      "Sobrecarga",
+      "Vaporizar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Raiden: Habilidade (E)",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) dentro do círculo do Bennett e Habilidade (E)",
+      "Bennett: Habilidade (E) para gerar partículas",
+      "Raiden: Supremo (Q) e Ataques Normais/Carregados até acabar o Supremo"
+    ],
+    "notes": "Raiden recupera energia do time com o Supremo, então Xiangling e Xingqiu precisam de pouca Recarga de Energia. Yelan pode substituir o Xingqiu com dano maior."
+  },
+  {
+    "name": "Nacional Clássica (Xiangling)",
+    "slots": [
+      [
+        "Xiangling"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Xingqiu",
+        "Yelan"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha",
+        "Chongyun"
+      ]
+    ],
+    "carry": "Xiangling",
+    "tags": [
+      "Nacional",
+      "Vaporizar",
+      "F2P",
+      "Iniciante",
+      "Abismo"
+    ],
+    "rotation": [
+      "Xingqiu: Supremo (Q) e Habilidade (E)",
+      "Sucrose/Kazuha: Habilidade (E) e Supremo (Q) para agrupar e dar Proficiência Elemental",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) dentro do círculo do Bennett e Habilidade (E)",
+      "Bennett: Habilidade (E) de novo para gerar energia",
+      "Personagem Anemo: Ataques Normais/Habilidade para espalhar Pyro e Hydro com Redemoinho"
+    ],
+    "notes": "Uma das melhores equipes gratuitas do jogo: Xiangling, Bennett, Xingqiu e Sucrose são 4★. Xiangling precisa de bastante Recarga de Energia (180%+); Chongyun funciona como alternativa ao Anemo se você não tiver um."
+  },
+  {
+    "name": "Tartaglia Nacional",
+    "slots": [
+      [
+        "Tartaglia"
+      ],
+      [
+        "Xiangling"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Tartaglia",
+    "tags": [
+      "Nacional",
+      "Vaporizar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Kazuha/Sucrose: Habilidade (E) e Supremo (Q)",
+      "Tartaglia: Habilidade (E) para entrar no modo corpo a corpo",
+      "Tartaglia: Ataques Normais e Habilidade de novo para sair do modo",
+      "Tartaglia: Supremo (Q) à distância para resetar a recarga da Habilidade"
+    ],
+    "notes": "Tartaglia aplica Hydro rápido e vaporiza o Pyro da Xiangling continuamente. Use o Supremo à distância depois de sair do modo corpo a corpo para zerar a recarga da Habilidade."
+  },
+  {
+    "name": "Raiden Hipercarry",
+    "slots": [
+      [
+        "Raiden Shogun"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Sucrose"
+      ],
+      [
+        "Kujou Sara",
+        "Fischl",
+        "Beidou"
+      ]
+    ],
+    "carry": "Raiden Shogun",
+    "tags": [
+      "Hipercarry",
+      "Elétrico"
+    ],
+    "rotation": [
+      "Raiden: Habilidade (E)",
+      "Sara: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Kazuha: Habilidade (E) segurada e Supremo (Q)",
+      "Raiden: Supremo (Q) e Ataques Normais/Carregados até o fim"
+    ],
+    "notes": "Todos os buffs (Bennett, Sara, Kazuha) se concentram no Supremo da Raiden. Use Fischl ou Beidou no lugar da Sara para uma versão mais acessível."
+  },
+  {
+    "name": "Sobrecarga Chevreuse",
+    "slots": [
+      [
+        "Raiden Shogun",
+        "Clorinde",
+        "Fischl"
+      ],
+      [
+        "Xiangling"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Chevreuse"
+      ]
+    ],
+    "carry": "Raiden Shogun",
+    "tags": [
+      "Sobrecarga",
+      "F2P",
+      "Mundo aberto"
+    ],
+    "rotation": [
+      "Chevreuse: Habilidade (E) segurada e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Raiden/Fischl: Habilidade (E)",
+      "Personagem Electro: Supremo (Q) e Ataques Normais",
+      "Chevreuse: Habilidade (E) entre rotações para manter o buff de ATQ"
+    ],
+    "notes": "Chevreuse só ativa seu passivo se o time tiver apenas Pyro e Electro, reduzindo a RES dos inimigos após Sobrecarga. A Sobrecarga empurra inimigos, então é melhor contra alvos grandes."
+  },
+  {
+    "name": "Hu Tao Vaporizar (Duplo Hydro)",
+    "slots": [
+      [
+        "Hu Tao"
+      ],
+      [
+        "Xingqiu"
+      ],
+      [
+        "Yelan",
+        "Furina",
+        "Candace"
+      ],
+      [
+        "Zhongli",
+        "Layla",
+        "Thoma",
+        "Diona"
+      ]
+    ],
+    "carry": "Hu Tao",
+    "tags": [
+      "Vaporizar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Zhongli/Layla: Habilidade (E) segurada para o escudo",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Yelan: Supremo (Q) e Habilidade (E)",
+      "Hu Tao: Habilidade (E)",
+      "Hu Tao: Ataque Normal + Ataque Carregado (N1C ou N2C) repetidamente",
+      "Hu Tao: Supremo (Q) no fim do estado de Habilidade se precisar de cura"
+    ],
+    "notes": "Xingqiu e Yelan aplicam Hydro fora de campo para a Hu Tao vaporizar seus Ataques Carregados. O escudo evita interrupções enquanto ela está com pouca vida."
+  },
+  {
+    "name": "Ayaka Congelar",
+    "slots": [
+      [
+        "Kamisato Ayaka"
+      ],
+      [
+        "Shenhe",
+        "Ganyu",
+        "Rosaria"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Venti",
+        "Sucrose"
+      ],
+      [
+        "Sangonomiya Kokomi",
+        "Furina",
+        "Mona"
+      ]
+    ],
+    "carry": "Kamisato Ayaka",
+    "tags": [
+      "Congelar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Kokomi: Habilidade (E) para aplicar Hydro",
+      "Shenhe: Habilidade (E) e Supremo (Q)",
+      "Kazuha: Habilidade (E) segurada e Supremo (Q) para agrupar",
+      "Ayaka: Habilidade (E) e Supremo (Q) no meio dos inimigos",
+      "Ayaka: Ataques Normais/Ataque Carregado até o Supremo acabar"
+    ],
+    "notes": "Congelar mantém os inimigos presos enquanto o Supremo da Ayaka bate repetidamente. Use Cálice Cryo e o set Andarilho Gelado (Blizzard Strayer), dispensando Taxa Crítica."
+  },
+  {
+    "name": "Ganyu Congelar (Morgana)",
+    "slots": [
+      [
+        "Ganyu"
+      ],
+      [
+        "Venti",
+        "Kaedehara Kazuha",
+        "Sucrose"
+      ],
+      [
+        "Mona",
+        "Sangonomiya Kokomi",
+        "Furina"
+      ],
+      [
+        "Diona",
+        "Charlotte",
+        "Layla"
+      ]
+    ],
+    "carry": "Ganyu",
+    "tags": [
+      "Congelar",
+      "Mundo aberto"
+    ],
+    "rotation": [
+      "Diona: Habilidade (E) segurada para escudo",
+      "Mona/Kokomi: Habilidade (E) para aplicar Hydro",
+      "Ganyu: Supremo (Q)",
+      "Venti: Supremo (Q) para puxar inimigos para dentro da chuva de gelo",
+      "Mona: Supremo (Q) para buff de dano",
+      "Ganyu: Ataques Carregados nível 2 (flecha carregada) até a próxima rotação"
+    ],
+    "notes": "O Supremo da Ganyu e o redemoinho do Anemo mantêm os inimigos congelados enquanto os Ataques Carregados acertam com Bônus de Dano Cryo."
+  },
+  {
+    "name": "Ganyu Derreter",
+    "slots": [
+      [
+        "Ganyu"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Xiangling",
+        "Thoma"
+      ],
+      [
+        "Zhongli",
+        "Kaedehara Kazuha",
+        "Diona"
+      ]
+    ],
+    "carry": "Ganyu",
+    "tags": [
+      "Derreter"
+    ],
+    "rotation": [
+      "Zhongli: Habilidade (E) segurada para escudo",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Ganyu: Supremo (Q)",
+      "Ganyu: Ataques Carregados nível 2 derretendo o Pyro da Xiangling"
+    ],
+    "notes": "As flechas carregadas da Ganyu derretem o Pyro aplicado pela Xiangling. Use Proficiência Elemental nos substatus para melhorar o Derreter."
+  },
+  {
+    "name": "Congelar F2P",
+    "slots": [
+      [
+        "Kaeya",
+        "Rosaria",
+        "Chongyun"
+      ],
+      [
+        "Xingqiu",
+        "Mona",
+        "Barbara"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha"
+      ],
+      [
+        "Diona",
+        "Charlotte",
+        "Layla"
+      ]
+    ],
+    "carry": "Kaeya",
+    "tags": [
+      "Congelar",
+      "F2P",
+      "Iniciante",
+      "Mundo aberto"
+    ],
+    "rotation": [
+      "Diona/Layla: Habilidade (E) para escudo",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Sucrose: Habilidade (E) e Supremo (Q) para agrupar",
+      "Kaeya: Supremo (Q) e Habilidade (E)",
+      "Kaeya: Ataques Normais congelando os inimigos com o Hydro do Xingqiu"
+    ],
+    "notes": "Equipe barata que mantém inimigos congelados e é muito segura para o mundo aberto. Rosaria ou Chongyun substituem o Kaeya como principal Cryo."
+  },
+  {
+    "name": "Neuvillette Hipercarry",
+    "slots": [
+      [
+        "Neuvillette"
+      ],
+      [
+        "Furina",
+        "Sangonomiya Kokomi",
+        "Yelan"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Sucrose",
+        "Venti"
+      ],
+      [
+        "Zhongli",
+        "Baizhu",
+        "Layla",
+        "Sigewinne"
+      ]
+    ],
+    "carry": "Neuvillette",
+    "tags": [
+      "Hydro",
+      "Abismo",
+      "Mundo aberto"
+    ],
+    "rotation": [
+      "Zhongli: Habilidade (E) segurada para escudo",
+      "Furina: Habilidade (E) e Supremo (Q)",
+      "Kazuha: Habilidade (E) segurada e Supremo (Q)",
+      "Neuvillette: Habilidade (E) e Supremo (Q) para gerar Gotas de Fonte",
+      "Neuvillette: absorver as gotas e usar o Ataque Carregado (raio d'água) até acabar"
+    ],
+    "notes": "Neuvillette causa enorme dano com o Ataque Carregado e não depende de reações. Furina dá um bônus de dano gigante e sua perda de vida é compensada pela cura do Neuvillette."
+  },
+  {
+    "name": "Furina Vaporizar (Mono Pyro)",
+    "slots": [
+      [
+        "Arlecchino",
+        "Lyney",
+        "Yoimiya"
+      ],
+      [
+        "Furina"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Xilonen",
+        "Zhongli"
+      ]
+    ],
+    "carry": "Arlecchino",
+    "tags": [
+      "Vaporizar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Furina: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Kazuha/Xilonen: Habilidade (E) e Supremo (Q)",
+      "Carry Pyro: Habilidade (E) e Supremo (Q)",
+      "Carry Pyro: Ataques Normais/Carregados até a próxima rotação"
+    ],
+    "notes": "Furina aplica Hydro fora de campo e dá bônus de dano; Bennett cura o time para manter o bônus da Furina alto. Funciona com vários DPS Pyro."
+  },
+  {
+    "name": "Arlecchino Vaporizar",
+    "slots": [
+      [
+        "Arlecchino"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Yelan",
+        "Xingqiu",
+        "Furina"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Xilonen",
+        "Zhongli",
+        "Chevreuse"
+      ]
+    ],
+    "carry": "Arlecchino",
+    "tags": [
+      "Vaporizar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Arlecchino: Habilidade (E) para marcar os inimigos",
+      "Yelan/Xingqiu: Supremo (Q) e Habilidade (E)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Kazuha: Habilidade (E) e Supremo (Q)",
+      "Arlecchino: Ataque Carregado para absorver as marcas",
+      "Arlecchino: Ataques Normais e Supremo (Q) para se curar quando precisar"
+    ],
+    "notes": "Arlecchino não pode ser curada normalmente, então Bennett serve mais pelo buff de ATQ. Chevreuse só funciona sem Hydro, numa variante Sobrecarga com Fischl."
+  },
+  {
+    "name": "Mavuika Derreter",
+    "slots": [
+      [
+        "Mavuika"
+      ],
+      [
+        "Citlali"
+      ],
+      [
+        "Xilonen",
+        "Kaedehara Kazuha"
+      ],
+      [
+        "Bennett",
+        "Iansan"
+      ]
+    ],
+    "carry": "Mavuika",
+    "tags": [
+      "Derreter",
+      "Natlan",
+      "Abismo"
+    ],
+    "rotation": [
+      "Xilonen: Habilidade (E) e Ataques Normais para aplicar redução de RES",
+      "Citlali: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Mavuika: Habilidade (E) e Supremo (Q) com os pontos de Espírito de Luta acumulados",
+      "Mavuika: Ataques Normais na moto até acabar o Supremo"
+    ],
+    "notes": "Citlali reduz a RES Pyro/Hydro e o Cryo dela permite Derreter. O Espírito de Luta da Mavuika enche quando o time gasta pontos de Alma Noturna (Nightsoul), por isso personagens de Natlan são ideais."
+  },
+  {
+    "name": "Navia Cristalizar",
+    "slots": [
+      [
+        "Navia"
+      ],
+      [
+        "Xilonen",
+        "Zhongli",
+        "Albedo",
+        "Chiori"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Furina",
+        "Xiangling",
+        "Fischl"
+      ]
+    ],
+    "carry": "Navia",
+    "tags": [
+      "Cristalizar",
+      "Geo",
+      "Abismo"
+    ],
+    "rotation": [
+      "Furina: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xilonen/Zhongli: Habilidade (E)",
+      "Navia: Supremo (Q) para gerar fragmentos de Cristalizar",
+      "Navia: Habilidade (E) segurada com 3 fragmentos para o tiro máximo",
+      "Navia: Ataques Normais até a Habilidade voltar"
+    ],
+    "notes": "Navia precisa de fragmentos de Cristalizar, então o time precisa de outro elemento (Hydro, Pyro ou Electro) aplicando fora de campo. Zhongli é a opção mais segura se faltar o Xilonen."
+  },
+  {
+    "name": "Kinich Queimadura",
+    "slots": [
+      [
+        "Kinich"
+      ],
+      [
+        "Emilie"
+      ],
+      [
+        "Bennett",
+        "Xiangling",
+        "Thoma"
+      ],
+      [
+        "Xilonen",
+        "Zhongli",
+        "Kaedehara Kazuha"
+      ]
+    ],
+    "carry": "Kinich",
+    "tags": [
+      "Queimadura",
+      "Dendro",
+      "Natlan"
+    ],
+    "rotation": [
+      "Xilonen: Habilidade (E) e Ataques Normais",
+      "Emilie: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E) para acender a Queimadura",
+      "Kinich: Supremo (Q)",
+      "Kinich: Habilidade (E) e balançar no gancho acertando os inimigos em Queimadura"
+    ],
+    "notes": "Kinich e Emilie aproveitam inimigos em Queimadura; Emilie protege o time do dano da Queimadura. Thoma ou Xiangling substituem o Bennett."
+  },
+  {
+    "name": "Mualani Vaporizar",
+    "slots": [
+      [
+        "Mualani"
+      ],
+      [
+        "Xilonen",
+        "Kachina",
+        "Kaedehara Kazuha",
+        "Lan Yan"
+      ],
+      [
+        "Bennett",
+        "Iansan"
+      ],
+      [
+        "Xiangling",
+        "Thoma",
+        "Dehya"
+      ]
+    ],
+    "carry": "Mualani",
+    "tags": [
+      "Vaporizar",
+      "Natlan",
+      "Abismo"
+    ],
+    "rotation": [
+      "Xilonen: Habilidade (E) e Ataques Normais",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Mualani: Habilidade (E) para subir na prancha",
+      "Mualani: acertar 3 inimigos/ataques para carregar e soltar a mordida vaporizada",
+      "Mualani: Supremo (Q) antes de acabar a Habilidade"
+    ],
+    "notes": "As mordidas da Mualani vaporizam com o Pyro aplicado fora de campo. Kachina é uma alternativa gratuita para Xilonen."
+  },
+  {
+    "name": "Chasca Noturna",
+    "slots": [
+      [
+        "Chasca"
+      ],
+      [
+        "Ororon",
+        "Iansan",
+        "Fischl"
+      ],
+      [
+        "Bennett",
+        "Mavuika",
+        "Xiangling",
+        "Thoma"
+      ],
+      [
+        "Furina",
+        "Citlali",
+        "Xingqiu"
+      ]
+    ],
+    "carry": "Chasca",
+    "tags": [
+      "Natlan",
+      "Abismo"
+    ],
+    "rotation": [
+      "Furina/Citlali: Habilidade (E) e Supremo (Q)",
+      "Ororon: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Chasca: Habilidade (E) para voar",
+      "Chasca: Ataque Carregado segurado para disparar as balas elementais",
+      "Chasca: Supremo (Q) quando tiver energia"
+    ],
+    "notes": "As balas da Chasca copiam os elementos Pyro, Hydro, Electro e Cryo do time, então tenha pelo menos dois desses. Ororon é o parceiro ideal por ser de Natlan."
+  },
+  {
+    "name": "Varesa Sobrecarga",
+    "slots": [
+      [
+        "Varesa"
+      ],
+      [
+        "Iansan"
+      ],
+      [
+        "Chevreuse",
+        "Xilonen",
+        "Zhongli"
+      ],
+      [
+        "Bennett",
+        "Xiangling",
+        "Mavuika"
+      ]
+    ],
+    "carry": "Varesa",
+    "tags": [
+      "Sobrecarga",
+      "Natlan",
+      "Abismo"
+    ],
+    "rotation": [
+      "Chevreuse: Habilidade (E) segurada e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Iansan: Supremo (Q)",
+      "Varesa: Habilidade (E) e Ataque Mergulhante",
+      "Varesa: entrar no modo Fúria e repetir Habilidade + Ataque Mergulhante",
+      "Varesa: Supremo (Q) logo após um Ataque Mergulhante"
+    ],
+    "notes": "Varesa luta com Ataques Mergulhantes sem precisar pular de lugares altos. Chevreuse exige time só com Pyro e Electro; com Xilonen/Zhongli a equipe fica mais segura."
+  },
+  {
+    "name": "Skirk Cryo-Hydro",
+    "slots": [
+      [
+        "Skirk"
+      ],
+      [
+        "Escoffier"
+      ],
+      [
+        "Citlali",
+        "Shenhe",
+        "Ganyu"
+      ],
+      [
+        "Furina",
+        "Mona",
+        "Sangonomiya Kokomi"
+      ]
+    ],
+    "carry": "Skirk",
+    "tags": [
+      "Congelar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Escoffier: Habilidade (E) e Supremo (Q)",
+      "Citlali/Shenhe: Habilidade (E) e Supremo (Q)",
+      "Furina: Habilidade (E) e Supremo (Q)",
+      "Skirk: Habilidade (E) para entrar no modo de Sete Fases",
+      "Skirk: Ataques Normais absorvendo as Fendas e Supremo (Q) no fim"
+    ],
+    "notes": "Skirk quer um time apenas com Cryo e Hydro; Escoffier reduz a RES Cryo/Hydro e cura. Shenhe é ótima no lugar da Citlali."
+  },
+  {
+    "name": "Clorinde Agravar",
+    "slots": [
+      [
+        "Clorinde"
+      ],
+      [
+        "Nahida"
+      ],
+      [
+        "Fischl",
+        "Yae Miko"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Baizhu",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Clorinde",
+    "tags": [
+      "Agravar",
+      "Elétrico"
+    ],
+    "rotation": [
+      "Nahida: Habilidade (E) e Supremo (Q)",
+      "Fischl: Habilidade (E) ou Supremo (Q)",
+      "Kazuha: Habilidade (E) e Supremo (Q)",
+      "Clorinde: Habilidade (E)",
+      "Clorinde: Ataques Normais disparando o revólver enquanto o Pacto de Vida está alto",
+      "Clorinde: Supremo (Q) quando tiver energia"
+    ],
+    "notes": "Clorinde aplica Electro rápido e aproveita bem o Agravar com a Nahida. Baizhu é uma alternativa de cura sem atrapalhar a reação."
+  },
+  {
+    "name": "Clorinde Sobrecarga",
+    "slots": [
+      [
+        "Clorinde"
+      ],
+      [
+        "Chevreuse"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Xiangling",
+        "Fischl",
+        "Thoma"
+      ]
+    ],
+    "carry": "Clorinde",
+    "tags": [
+      "Sobrecarga",
+      "Elétrico"
+    ],
+    "rotation": [
+      "Chevreuse: Habilidade (E) segurada e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Clorinde: Habilidade (E) e Ataques Normais",
+      "Clorinde: Supremo (Q) quando tiver energia"
+    ],
+    "notes": "Chevreuse reduz a RES Pyro/Electro após Sobrecarga e cura, mantendo o Pacto de Vida da Clorinde ativo."
+  },
+  {
+    "name": "Keqing Agravar",
+    "slots": [
+      [
+        "Keqing"
+      ],
+      [
+        "Fischl",
+        "Beidou"
+      ],
+      [
+        "Nahida",
+        "Collei",
+        "Kirara"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Sucrose",
+        "Dori",
+        "Kuki Shinobu"
+      ]
+    ],
+    "carry": "Keqing",
+    "tags": [
+      "Agravar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Fischl: Habilidade (E) para invocar o Oz",
+      "Nahida: Habilidade (E) e Supremo (Q)",
+      "Kazuha/Sucrose: Habilidade (E) e Supremo (Q)",
+      "Keqing: Habilidade (E) duas vezes para teleportar e aplicar Electro",
+      "Keqing: Supremo (Q) e Ataques Normais/Carregados",
+      "Fischl: Supremo (Q) quando o Oz acabar"
+    ],
+    "notes": "Keqing causa muito dano com Agravar graças à rápida aplicação de Electro. Collei é uma alternativa grátis para a Nahida."
+  },
+  {
+    "name": "Cyno Agravar",
+    "slots": [
+      [
+        "Cyno"
+      ],
+      [
+        "Nahida",
+        "Collei"
+      ],
+      [
+        "Fischl",
+        "Yae Miko",
+        "Beidou"
+      ],
+      [
+        "Baizhu",
+        "Kuki Shinobu",
+        "Zhongli",
+        "Dori"
+      ]
+    ],
+    "carry": "Cyno",
+    "tags": [
+      "Agravar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Nahida: Habilidade (E) e Supremo (Q)",
+      "Fischl: Habilidade (E)",
+      "Baizhu/Kuki: Habilidade (E)",
+      "Cyno: Habilidade (E) e depois Supremo (Q)",
+      "Cyno: Ataques Normais e Habilidade (E) durante o Supremo",
+      "Cyno: Habilidade (E) no fim do Supremo para estender"
+    ],
+    "notes": "Cyno precisa encher o Supremo de 80 de energia, então Fischl e partículas Electro ajudam. Dori é uma bateria barata para ele."
+  },
+  {
+    "name": "Yae Miko Agravar",
+    "slots": [
+      [
+        "Yae Miko"
+      ],
+      [
+        "Fischl",
+        "Raiden Shogun"
+      ],
+      [
+        "Nahida",
+        "Collei"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Zhongli",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Yae Miko",
+    "tags": [
+      "Agravar",
+      "Fora de campo"
+    ],
+    "rotation": [
+      "Yae: Habilidade (E) três vezes para os totens",
+      "Fischl: Habilidade (E)",
+      "Nahida: Habilidade (E) e Supremo (Q)",
+      "Kazuha: Habilidade (E) e Supremo (Q)",
+      "Yae: Supremo (Q) para consumir os totens e Habilidade (E) de novo"
+    ],
+    "notes": "Os totens da Yae causam dano fora de campo e acionam Agravar. Funciona bem mesmo com investimento moderado."
+  },
+  {
+    "name": "Alhaitham Propagação",
+    "slots": [
+      [
+        "Alhaitham"
+      ],
+      [
+        "Nahida",
+        "Yaoyao"
+      ],
+      [
+        "Fischl",
+        "Yae Miko",
+        "Raiden Shogun"
+      ],
+      [
+        "Kuki Shinobu",
+        "Baizhu",
+        "Zhongli",
+        "Kaedehara Kazuha"
+      ]
+    ],
+    "carry": "Alhaitham",
+    "tags": [
+      "Propagação",
+      "Agravar",
+      "Dendro"
+    ],
+    "rotation": [
+      "Nahida: Habilidade (E) e Supremo (Q)",
+      "Fischl: Habilidade (E)",
+      "Kuki/Baizhu: Habilidade (E)",
+      "Alhaitham: Habilidade (E) para gerar espelhos",
+      "Alhaitham: Supremo (Q) e Ataques Normais/Ataque Mergulhante para gerar projeções",
+      "Alhaitham: Habilidade (E) de novo quando os espelhos acabarem"
+    ],
+    "notes": "Alhaitham aplica Dendro intenso e se beneficia de Propagação com o Electro fora de campo. A Nahida aumenta muito sua Proficiência Elemental."
+  },
+  {
+    "name": "Tighnari Propagação",
+    "slots": [
+      [
+        "Tighnari"
+      ],
+      [
+        "Fischl",
+        "Yae Miko",
+        "Beidou"
+      ],
+      [
+        "Nahida",
+        "Collei"
+      ],
+      [
+        "Zhongli",
+        "Kaedehara Kazuha",
+        "Kuki Shinobu"
+      ]
+    ],
+    "carry": "Tighnari",
+    "tags": [
+      "Propagação",
+      "Agravar",
+      "F2P"
+    ],
+    "rotation": [
+      "Fischl: Habilidade (E)",
+      "Nahida/Collei: Habilidade (E) e Supremo (Q)",
+      "Zhongli: Habilidade (E) segurada para escudo",
+      "Tighnari: Habilidade (E) e Supremo (Q)",
+      "Tighnari: Ataques Carregados rápidos (flechas Florais) até acabar a Habilidade"
+    ],
+    "notes": "Tighnari dispara flechas carregadas rápidas que aproveitam Propagação. Collei e Fischl tornam a equipe acessível."
+  },
+  {
+    "name": "Hiperflorescer (Kuki)",
+    "slots": [
+      [
+        "Kuki Shinobu",
+        "Raiden Shogun"
+      ],
+      [
+        "Nahida",
+        "Collei",
+        "Yaoyao"
+      ],
+      [
+        "Xingqiu",
+        "Yelan"
+      ],
+      [
+        "Furina",
+        "Sangonomiya Kokomi",
+        "Barbara",
+        "Candace"
+      ]
+    ],
+    "carry": "Kuki Shinobu",
+    "tags": [
+      "Hiperflorescer",
+      "F2P",
+      "Abismo",
+      "Mundo aberto"
+    ],
+    "rotation": [
+      "Nahida/Collei: Habilidade (E) e Supremo (Q)",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Furina/Kokomi: Habilidade (E) e Supremo (Q)",
+      "Kuki: Habilidade (E) para o anel que transforma Núcleos Dendro em Hiperflorescer",
+      "Ficar em campo com o personagem Hydro/Dendro para gerar Núcleos Dendro"
+    ],
+    "notes": "O dano vem da reação, então Kuki usa Proficiência Elemental. Kuki cura o time; com Raiden no lugar dela, coloque uma fonte de cura."
+  },
+  {
+    "name": "Ayato Hiperflorescer",
+    "slots": [
+      [
+        "Kamisato Ayato"
+      ],
+      [
+        "Nahida",
+        "Collei",
+        "Yaoyao"
+      ],
+      [
+        "Kuki Shinobu",
+        "Raiden Shogun"
+      ],
+      [
+        "Xingqiu",
+        "Yelan",
+        "Furina"
+      ]
+    ],
+    "carry": "Kamisato Ayato",
+    "tags": [
+      "Hiperflorescer"
+    ],
+    "rotation": [
+      "Nahida: Habilidade (E) e Supremo (Q)",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Kuki: Habilidade (E)",
+      "Ayato: Supremo (Q)",
+      "Ayato: Habilidade (E) e Ataques Normais com a espada d'água gerando Núcleos Dendro"
+    ],
+    "notes": "Ayato aplica Hydro rápido em campo enquanto a Kuki detona os núcleos. Ótima equipe para mundo aberto e Abismo."
+  },
+  {
+    "name": "Nilou Florescer",
+    "slots": [
+      [
+        "Nilou"
+      ],
+      [
+        "Nahida",
+        "Collei"
+      ],
+      [
+        "Sangonomiya Kokomi",
+        "Barbara",
+        "Xingqiu"
+      ],
+      [
+        "Baizhu",
+        "Yaoyao",
+        "Kirara"
+      ]
+    ],
+    "carry": "Nilou",
+    "tags": [
+      "Florescer",
+      "Abismo"
+    ],
+    "rotation": [
+      "Nahida: Habilidade (E) e Supremo (Q)",
+      "Baizhu/Yaoyao: Habilidade (E)",
+      "Nilou: Habilidade (E) e 3 passos de dança (Ataques Normais)",
+      "Nilou: Supremo (Q)",
+      "Kokomi: Habilidade (E) e Ataques Normais para continuar gerando Núcleos Dendro"
+    ],
+    "notes": "O passivo da Nilou só ativa com um time exclusivamente Hydro e Dendro. Nilou usa Vida máxima para fortalecer o Florescer."
+  },
+  {
+    "name": "Kokomi Eletrocarregado",
+    "slots": [
+      [
+        "Sangonomiya Kokomi"
+      ],
+      [
+        "Fischl"
+      ],
+      [
+        "Beidou",
+        "Raiden Shogun",
+        "Kuki Shinobu"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha",
+        "Venti"
+      ]
+    ],
+    "carry": "Sangonomiya Kokomi",
+    "tags": [
+      "Eletrocarregado",
+      "F2P",
+      "Mundo aberto"
+    ],
+    "rotation": [
+      "Fischl: Habilidade (E)",
+      "Beidou: Supremo (Q)",
+      "Sucrose: Habilidade (E) e Supremo (Q)",
+      "Kokomi: Habilidade (E) e Supremo (Q)",
+      "Kokomi: Ataques Normais até acabar o Supremo"
+    ],
+    "notes": "Equipe barata e muito segura graças às curas da Kokomi; Beidou e Fischl causam o dano em Eletrocarregado. Dá para rodar com quase tudo 4★."
+  },
+  {
+    "name": "Taser Clássico",
+    "slots": [
+      [
+        "Fischl"
+      ],
+      [
+        "Beidou",
+        "Kuki Shinobu"
+      ],
+      [
+        "Xingqiu",
+        "Barbara",
+        "Candace"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha"
+      ]
+    ],
+    "carry": "Fischl",
+    "tags": [
+      "Eletrocarregado",
+      "F2P",
+      "Iniciante"
+    ],
+    "rotation": [
+      "Fischl: Habilidade (E) para invocar o Oz",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Beidou: Supremo (Q)",
+      "Sucrose: Habilidade (E) e Supremo (Q)",
+      "Sucrose: Ataques Normais/Carregados enquanto Beidou e Xingqiu causam dano"
+    ],
+    "notes": "Equipe 100% 4★ que funciona bem contra grupos. Beidou precisa de bastante Recarga de Energia."
+  },
+  {
+    "name": "Wriothesley Derreter",
+    "slots": [
+      [
+        "Wriothesley"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Xiangling",
+        "Thoma",
+        "Dehya"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Sucrose",
+        "Zhongli"
+      ]
+    ],
+    "carry": "Wriothesley",
+    "tags": [
+      "Derreter"
+    ],
+    "rotation": [
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Kazuha: Habilidade (E) e Supremo (Q)",
+      "Wriothesley: Habilidade (E) e Ataques Normais",
+      "Wriothesley: Ataque Carregado especial quando estiver com menos de 60% de Vida",
+      "Wriothesley: Supremo (Q) no fim"
+    ],
+    "notes": "Wriothesley gasta a própria Vida para aumentar o dano, então a cura do Bennett é bem-vinda. Os golpes Cryo derretem o Pyro da Xiangling."
+  },
+  {
+    "name": "Lyney Mono Pyro",
+    "slots": [
+      [
+        "Lyney"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Xiangling",
+        "Thoma",
+        "Dehya"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Zhongli",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Lyney",
+    "tags": [
+      "Mono Pyro",
+      "Abismo"
+    ],
+    "rotation": [
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Kazuha: Habilidade (E) e Supremo (Q)",
+      "Lyney: Supremo (Q)",
+      "Lyney: Ataques Carregados (Cartola) até ter 5 Marcas de Grim",
+      "Lyney: Habilidade (E) para consumir as marcas"
+    ],
+    "notes": "Lyney ganha bônus de dano com inimigos afetados por Pyro, por isso o time Mono Pyro. Ele perde Vida com o Ataque Carregado, e o Bennett compensa."
+  },
+  {
+    "name": "Yoimiya Vaporizar",
+    "slots": [
+      [
+        "Yoimiya"
+      ],
+      [
+        "Yelan",
+        "Xingqiu",
+        "Furina"
+      ],
+      [
+        "Yun Jin",
+        "Bennett"
+      ],
+      [
+        "Zhongli",
+        "Layla",
+        "Kaedehara Kazuha"
+      ]
+    ],
+    "carry": "Yoimiya",
+    "tags": [
+      "Vaporizar",
+      "Abismo"
+    ],
+    "rotation": [
+      "Zhongli/Layla: Habilidade (E) segurada para escudo",
+      "Yelan: Supremo (Q) e Habilidade (E)",
+      "Yun Jin: Supremo (Q) para aumentar o dano de Ataque Normal",
+      "Yoimiya: Habilidade (E) e Supremo (Q)",
+      "Yoimiya: Ataques Normais vaporizando com o Hydro da Yelan"
+    ],
+    "notes": "Yoimiya é DPS de Ataques Normais e precisa de escudo para não ser interrompida. Yun Jin aumenta bastante o dano dos Ataques Normais."
+  },
+  {
+    "name": "Diluc Vaporizar",
+    "slots": [
+      [
+        "Diluc"
+      ],
+      [
+        "Xingqiu",
+        "Yelan"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha",
+        "Zhongli"
+      ]
+    ],
+    "carry": "Diluc",
+    "tags": [
+      "Vaporizar",
+      "Iniciante"
+    ],
+    "rotation": [
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Sucrose: Habilidade (E) e Supremo (Q)",
+      "Diluc: Supremo (Q)",
+      "Diluc: Habilidade (E) três vezes intercalando com Ataques Normais"
+    ],
+    "notes": "Diluc é um 5★ padrão que vem forte nessa equipe Vaporizar com o Xingqiu. Bennett cura e dá ATQ."
+  },
+  {
+    "name": "Gaming Mergulho",
+    "slots": [
+      [
+        "Gaming"
+      ],
+      [
+        "Xianyun"
+      ],
+      [
+        "Bennett",
+        "Thoma"
+      ],
+      [
+        "Xingqiu",
+        "Yelan",
+        "Furina"
+      ]
+    ],
+    "carry": "Gaming",
+    "tags": [
+      "Vaporizar",
+      "Ataque Mergulhante"
+    ],
+    "rotation": [
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xianyun: Supremo (Q)",
+      "Gaming: Supremo (Q)",
+      "Gaming: Habilidade (E) seguida do Ataque Mergulhante repetidamente"
+    ],
+    "notes": "Gaming é um DPS 4★ de Ataques Mergulhantes; Xianyun deixa ele pular mais e aumenta o dano do mergulho. Pode trocar o Xingqiu por Furina."
+  },
+  {
+    "name": "Xiao Mergulho",
+    "slots": [
+      [
+        "Xiao"
+      ],
+      [
+        "Xianyun",
+        "Zhongli"
+      ],
+      [
+        "Faruzan",
+        "Sucrose"
+      ],
+      [
+        "Furina",
+        "Bennett"
+      ]
+    ],
+    "carry": "Xiao",
+    "tags": [
+      "Anemo",
+      "Ataque Mergulhante",
+      "Abismo"
+    ],
+    "rotation": [
+      "Furina: Habilidade (E) e Supremo (Q)",
+      "Faruzan: Habilidade (E) e Supremo (Q)",
+      "Xianyun: Supremo (Q)",
+      "Xiao: Habilidade (E) duas vezes e Supremo (Q)",
+      "Xiao: Ataques Mergulhantes repetidos até o Supremo acabar"
+    ],
+    "notes": "Xiao precisa de energia para o Supremo; Faruzan reduz a RES Anemo e dá partículas. Zhongli troca a Xianyun pela segurança do escudo."
+  },
+  {
+    "name": "Wanderer Hipercarry",
+    "slots": [
+      [
+        "Wanderer"
+      ],
+      [
+        "Faruzan"
+      ],
+      [
+        "Bennett",
+        "Yun Jin"
+      ],
+      [
+        "Furina",
+        "Zhongli",
+        "Layla",
+        "Lan Yan"
+      ]
+    ],
+    "carry": "Wanderer",
+    "tags": [
+      "Anemo",
+      "Hipercarry"
+    ],
+    "rotation": [
+      "Furina/Zhongli: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Faruzan: Habilidade (E) e Supremo (Q)",
+      "Wanderer: Habilidade (E) para flutuar",
+      "Wanderer: Ataques Normais/Carregados no ar e Supremo (Q) no fim da Habilidade"
+    ],
+    "notes": "Faruzan é a melhor parceira do Wanderer (redução de RES Anemo). Bennett absorvido pelo Wanderer dá aumento de dano pelo passivo Pyro."
+  },
+  {
+    "name": "Itto Mono Geo",
+    "slots": [
+      [
+        "Arataki Itto"
+      ],
+      [
+        "Gorou"
+      ],
+      [
+        "Albedo",
+        "Chiori",
+        "Ningguang"
+      ],
+      [
+        "Zhongli",
+        "Yun Jin",
+        "Noelle"
+      ]
+    ],
+    "carry": "Arataki Itto",
+    "tags": [
+      "Mono Geo",
+      "Escudo",
+      "Abismo"
+    ],
+    "rotation": [
+      "Zhongli: Habilidade (E) segurada para escudo",
+      "Albedo: Habilidade (E)",
+      "Gorou: Habilidade (E) e Supremo (Q)",
+      "Itto: Habilidade (E) para acumular pontos",
+      "Itto: Supremo (Q) e Ataques Carregados (Arataki Kesagiri) ao acumular os pontos"
+    ],
+    "notes": "Gorou é essencial para buff de DEF em time Mono Geo. Albedo e Zhongli dão dano/escudo fora de campo."
+  },
+  {
+    "name": "Noelle Mono Geo",
+    "slots": [
+      [
+        "Noelle"
+      ],
+      [
+        "Gorou"
+      ],
+      [
+        "Albedo",
+        "Ningguang",
+        "Yun Jin"
+      ],
+      [
+        "Zhongli",
+        "Chiori",
+        "Bennett"
+      ]
+    ],
+    "carry": "Noelle",
+    "tags": [
+      "Mono Geo",
+      "Escudo",
+      "F2P",
+      "Iniciante"
+    ],
+    "rotation": [
+      "Zhongli: Habilidade (E) segurada para escudo",
+      "Albedo/Ningguang: Habilidade (E)",
+      "Gorou: Habilidade (E) e Supremo (Q)",
+      "Noelle: Habilidade (E) para escudo e cura",
+      "Noelle: Supremo (Q) e Ataques Normais até acabar"
+    ],
+    "notes": "Noelle é gratuita e escala com DEF; Gorou aumenta a DEF e o Bônus de Dano Geo. Com Bennett no lugar do Zhongli, o ATQ ainda ajuda o Supremo dela."
+  },
+  {
+    "name": "Eula Físico",
+    "slots": [
+      [
+        "Eula"
+      ],
+      [
+        "Raiden Shogun",
+        "Fischl",
+        "Beidou"
+      ],
+      [
+        "Mika",
+        "Rosaria",
+        "Diona"
+      ],
+      [
+        "Zhongli",
+        "Kaedehara Kazuha",
+        "Bennett"
+      ]
+    ],
+    "carry": "Eula",
+    "tags": [
+      "Físico",
+      "Supercondução"
+    ],
+    "rotation": [
+      "Zhongli: Habilidade (E) segurada para reduzir RES",
+      "Raiden: Habilidade (E)",
+      "Mika: Habilidade (E) e Supremo (Q)",
+      "Eula: Habilidade (E) segurada e Supremo (Q)",
+      "Eula: Ataques Normais para carregar a lâmina e Habilidade (E) para acumular",
+      "Eula: deixar o Supremo explodir no fim"
+    ],
+    "notes": "Eula causa Dano Físico; Supercondução com Electro reduz a RES Física do inimigo. Mika aumenta a Velocidade de Ataque e o Dano Físico."
+  },
+  {
+    "name": "Zhongli Escudo + Xiangling (Mundo aberto)",
+    "slots": [
+      [
+        "Xiangling"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Zhongli",
+        "Diona",
+        "Noelle",
+        "Layla"
+      ],
+      [
+        "Fischl",
+        "Beidou",
+        "Chongyun"
+      ]
+    ],
+    "carry": "Xiangling",
+    "tags": [
+      "Escudo",
+      "Sobrecarga",
+      "F2P",
+      "Mundo aberto",
+      "Iniciante"
+    ],
+    "rotation": [
+      "Zhongli/Diona: Habilidade (E) segurada para escudo",
+      "Fischl: Habilidade (E)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Ficar com Xiangling ou Fischl batendo enquanto o Supremo gira"
+    ],
+    "notes": "Versão simples e segura da Nacional para quem não tem Xingqiu. Chongyun permite Derreter no lugar da Sobrecarga."
+  },
+  {
+    "name": "Escoffier/Furina Congelar",
+    "slots": [
+      [
+        "Kamisato Ayaka",
+        "Ganyu",
+        "Wriothesley"
+      ],
+      [
+        "Escoffier"
+      ],
+      [
+        "Furina",
+        "Sangonomiya Kokomi"
+      ],
+      [
+        "Kaedehara Kazuha",
+        "Venti",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Kamisato Ayaka",
+    "tags": [
+      "Congelar"
+    ],
+    "rotation": [
+      "Escoffier: Habilidade (E) e Supremo (Q)",
+      "Furina: Habilidade (E) e Supremo (Q)",
+      "Kazuha: Habilidade (E) segurada e Supremo (Q)",
+      "DPS Cryo: Habilidade (E) e Supremo (Q)",
+      "DPS Cryo: Ataques Normais/Carregados até a próxima rotação"
+    ],
+    "notes": "Escoffier reduz RES Cryo/Hydro e cura, compensando a perda de Vida da Furina. Serve para vários DPS Cryo."
+  },
+  {
+    "name": "Flins Lunar-Carregado",
+    "slots": [
+      [
+        "Flins"
+      ],
+      [
+        "Ineffa"
+      ],
+      [
+        "Columbina",
+        "Aino",
+        "Yelan"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha",
+        "Xilonen"
+      ]
+    ],
+    "carry": "Flins",
+    "tags": [
+      "Lunar-Carregado",
+      "Nod-Krai",
+      "Abismo"
+    ],
+    "rotation": [
+      "Ineffa: Habilidade (E) para escudo e invocar o robô",
+      "Columbina/Aino: Habilidade (E) e Supremo (Q)",
+      "Sucrose: Habilidade (E) e Supremo (Q) para Proficiência Elemental",
+      "Flins: Habilidade (E) para entrar na forma aprimorada",
+      "Flins: Supremo (Q) e Ataques Normais até a próxima rotação"
+    ],
+    "notes": "Flins causa dano de Lunar-Carregado (Electro + Hydro com personagens de Nod-Krai). Ineffa é sua melhor parceira; Aino é a alternativa Hydro 4★ à Columbina."
+  },
+  {
+    "name": "Flins F2P",
+    "slots": [
+      [
+        "Flins"
+      ],
+      [
+        "Fischl",
+        "Ineffa"
+      ],
+      [
+        "Aino",
+        "Xingqiu"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha"
+      ]
+    ],
+    "carry": "Flins",
+    "tags": [
+      "Lunar-Carregado",
+      "Nod-Krai",
+      "F2P"
+    ],
+    "rotation": [
+      "Fischl: Habilidade (E)",
+      "Aino/Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Sucrose: Habilidade (E) e Supremo (Q)",
+      "Flins: Habilidade (E), Supremo (Q) e Ataques Normais"
+    ],
+    "notes": "Versão mais acessível com 4★. Aino é importante para ativar o Lunar-Carregado por ser de Nod-Krai; com Xingqiu o dano é menor."
+  },
+  {
+    "name": "Nefer Lunar-Florescer",
+    "slots": [
+      [
+        "Nefer"
+      ],
+      [
+        "Lauma"
+      ],
+      [
+        "Columbina",
+        "Aino",
+        "Nilou"
+      ],
+      [
+        "Nahida",
+        "Yaoyao",
+        "Sucrose",
+        "Zhongli"
+      ]
+    ],
+    "carry": "Nefer",
+    "tags": [
+      "Lunar-Florescer",
+      "Florescer",
+      "Nod-Krai"
+    ],
+    "rotation": [
+      "Lauma: Habilidade (E) e Supremo (Q)",
+      "Columbina/Aino: Habilidade (E) e Supremo (Q) para aplicar Hydro e gerar núcleos",
+      "Nahida/Yaoyao: Habilidade (E)",
+      "Nefer: Habilidade (E)",
+      "Nefer: Ataques Carregados para absorver as Sementes e causar Lunar-Florescer",
+      "Nefer: Supremo (Q) quando tiver energia"
+    ],
+    "notes": "Lauma é a melhor parceira da Nefer: amplifica o Lunar-Florescer e reduz RES Dendro/Hydro. Para uma versão barata use Aino + Yaoyao ou Sucrose."
+  },
+  {
+    "name": "Zibai Lunar-Cristalizar",
+    "slots": [
+      [
+        "Zibai"
+      ],
+      [
+        "Columbina",
+        "Aino"
+      ],
+      [
+        "Illuga"
+      ],
+      [
+        "Linnea",
+        "Zhongli",
+        "Dahlia"
+      ]
+    ],
+    "carry": "Zibai",
+    "tags": [
+      "Lunar-Cristalizar",
+      "Geo",
+      "Nod-Krai"
+    ],
+    "rotation": [
+      "Illuga: Habilidade (E) e Supremo (Q)",
+      "Columbina/Aino: Habilidade (E) e Supremo (Q)",
+      "Linnea: Habilidade (E)",
+      "Zibai: Habilidade (E) e Supremo (Q)",
+      "Zibai: Ataques em campo causando Lunar-Cristalizar até a próxima rotação"
+    ],
+    "notes": "Zibai depende do Lunar-Cristalizar (Geo + Hydro). Illuga foi feito para ela; Aino substitui a Columbina numa versão 4★."
+  },
+  {
+    "name": "Nahida Queimadura Florescente",
+    "slots": [
+      [
+        "Nahida"
+      ],
+      [
+        "Xiangling",
+        "Thoma",
+        "Bennett"
+      ],
+      [
+        "Kirara",
+        "Collei",
+        "Yaoyao"
+      ],
+      [
+        "Zhongli",
+        "Kaedehara Kazuha",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Nahida",
+    "tags": [
+      "Queimadura",
+      "Mundo aberto"
+    ],
+    "rotation": [
+      "Zhongli: Habilidade (E) segurada para escudo",
+      "Nahida: Habilidade (E) para marcar os inimigos",
+      "Kirara/Collei: Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E) para manter a Queimadura",
+      "Nahida: Supremo (Q) e Ataques Normais/Carregados"
+    ],
+    "notes": "Queimadura constante aciona as marcas da Nahida o tempo todo e dá dano em área. Bom para mundo aberto; cuidado, a Queimadura também machuca seu time."
+  },
+  {
+    "name": "Hiperflorescer com Escudo (Kirara)",
+    "slots": [
+      [
+        "Kirara",
+        "Collei"
+      ],
+      [
+        "Xingqiu",
+        "Barbara",
+        "Candace"
+      ],
+      [
+        "Kuki Shinobu",
+        "Fischl",
+        "Beidou"
+      ],
+      [
+        "Nahida",
+        "Yaoyao",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Kuki Shinobu",
+    "tags": [
+      "Hiperflorescer",
+      "F2P",
+      "Escudo",
+      "Iniciante"
+    ],
+    "rotation": [
+      "Kirara: Habilidade (E) segurada para escudo e Supremo (Q)",
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Yaoyao: Habilidade (E)",
+      "Kuki: Habilidade (E)",
+      "Kirara: Ataques Normais gerando Núcleos Dendro"
+    ],
+    "notes": "Hiperflorescer quase todo de 4★, com escudo da Kirara. Kuki precisa de Proficiência Elemental para maximizar o dano."
+  },
+  {
+    "name": "Candace/Thoma Vaporizar",
+    "slots": [
+      [
+        "Xiangling",
+        "Yoimiya"
+      ],
+      [
+        "Thoma",
+        "Bennett"
+      ],
+      [
+        "Candace",
+        "Xingqiu",
+        "Barbara"
+      ],
+      [
+        "Sucrose",
+        "Kaedehara Kazuha"
+      ]
+    ],
+    "carry": "Xiangling",
+    "tags": [
+      "Vaporizar",
+      "Escudo",
+      "F2P"
+    ],
+    "rotation": [
+      "Thoma: Habilidade (E) para escudo e Supremo (Q)",
+      "Candace: Supremo (Q) para infundir Hydro nos Ataques Normais",
+      "Sucrose: Habilidade (E) e Supremo (Q)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Personagem em campo: Ataques Normais vaporizando com o Pyro da Xiangling"
+    ],
+    "notes": "Alternativa para quem não tem Bennett/Xingqiu bem desenvolvidos. O escudo do Thoma dá segurança."
+  },
+  {
+    "name": "Redemoinho Mundo Aberto",
+    "slots": [
+      [
+        "Venti",
+        "Kaedehara Kazuha",
+        "Sucrose"
+      ],
+      [
+        "Xiangling",
+        "Bennett"
+      ],
+      [
+        "Furina",
+        "Xingqiu"
+      ],
+      [
+        "Jean",
+        "Zhongli",
+        "Diona"
+      ]
+    ],
+    "carry": "Venti",
+    "tags": [
+      "Redemoinho",
+      "Mundo aberto",
+      "F2P"
+    ],
+    "rotation": [
+      "Furina/Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Venti/Sucrose: Habilidade (E) e Supremo (Q) para agrupar e redemoinhar",
+      "Jean: Habilidade (E) e Supremo (Q) para curar",
+      "Ataques Normais com o Anemo enquanto a tempestade espalha elementos"
+    ],
+    "notes": "Equipe de controle de grupo: o Anemo agrupa inimigos e espalha os elementos. Ideal para limpar mundo aberto."
+  },
+  {
+    "name": "Navia Geo com Kachina",
+    "slots": [
+      [
+        "Navia",
+        "Chiori"
+      ],
+      [
+        "Kachina",
+        "Xilonen",
+        "Zhongli"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Xiangling",
+        "Furina",
+        "Fischl"
+      ]
+    ],
+    "carry": "Navia",
+    "tags": [
+      "Cristalizar",
+      "Geo",
+      "F2P"
+    ],
+    "rotation": [
+      "Furina/Xiangling: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Kachina: Habilidade (E) segurada para a Twirly",
+      "Navia: Habilidade (E) e Ataques Normais com fragmentos de Cristalizar"
+    ],
+    "notes": "Kachina é uma suporte Geo 4★ gratuita que reduz a RES Geo, substituindo bem o Xilonen. Mantenha um personagem não-Geo aplicando elemento para gerar fragmentos de Cristalizar."
+  },
+  {
+    "name": "Nacional com Lynette",
+    "slots": [
+      [
+        "Xiangling"
+      ],
+      [
+        "Bennett"
+      ],
+      [
+        "Xingqiu",
+        "Candace"
+      ],
+      [
+        "Lynette",
+        "Kaedehara Kazuha",
+        "Sucrose"
+      ]
+    ],
+    "carry": "Xiangling",
+    "tags": [
+      "Nacional",
+      "Vaporizar",
+      "F2P"
+    ],
+    "rotation": [
+      "Xingqiu: Habilidade (E) e Supremo (Q)",
+      "Bennett: Supremo (Q) e Habilidade (E)",
+      "Xiangling: Supremo (Q) e Habilidade (E)",
+      "Lynette: Supremo (Q) para atrair inimigos e Habilidade (E)"
+    ],
+    "notes": "Lynette agrupa inimigos e dá ATQ ao time com dois ou mais elementos, sendo uma boa substituta da Sucrose."
+  }
+]

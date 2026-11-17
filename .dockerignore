@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+.data
+.git
+data/enka
+data/gamedb
+*.log
+.env

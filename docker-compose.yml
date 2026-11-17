@@ -1,0 +1,23 @@
+# Genshin Builder em um servidor caseiro (ex.: Raspberry Pi). Um túnel (ex.: Cloudflare Tunnel) aponta o seu domínio para http://localhost:8787.
+services:
+  genshin-builder:
+    build:
+      context: .
+      args:
+        DATA_VERSION: ${DATA_VERSION:-manual}
+    image: genshin-builder:latest
+    container_name: genshin-builder
+    restart: unless-stopped
+    # só aceita conexões do próprio Pi: o acesso de fora é sempre pelo túnel
+    ports:
+      - "127.0.0.1:8787:8787"
+    environment:
+      INVITE_CODE: ${INVITE_CODE:?defina INVITE_CODE no .env}
+      APP_SECRET: ${APP_SECRET:?defina APP_SECRET no .env}
+    volumes:
+      # banco SQLite (usuários, sessões, dados de cada conta)
+      - genshin-state:/state
+    mem_limit: 512m
+
+volumes:
+  genshin-state:

@@ -1,0 +1,2702 @@
+[
+  {
+    "character": "Nahida",
+    "roles": [
+      {
+        "name": "Sub-DPS (Dendro)",
+        "weapons": [
+          {
+            "name": "A Thousand Floating Dreams",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Kagura's Verity",
+            "note": "5★ alternativa forte"
+          },
+          {
+            "name": "Sacrificial Fragments",
+            "note": "Ótima 4★ (Proficiência Elemental)"
+          },
+          {
+            "name": "Wandering Evenstar",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Mappa Mare",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Hakushin Ring",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais na equipe usa Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Wanderer's Troupe",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas"
+          ],
+          "goblet": [
+            "dendro_dmg_",
+            "eleMas"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_",
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "eleMas": 1,
+          "atk_": 0.5,
+          "enerRech_": 0.4,
+          "atk": 0.2
+        },
+        "erTarget": "110–130%",
+        "erMin": 110,
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "O dano da Nahida vem da Habilidade Elemental (Tri-Karma), que escala com ATQ e Proficiência Elemental — por isso a ampulheta de Proficiência é quase obrigatória. Marque todos os inimigos com o toque longo da Habilidade e use o Supremo para estender e fortalecer as marcas."
+      },
+      {
+        "name": "Suporte (Proficiência / Florescer)",
+        "weapons": [
+          {
+            "name": "A Thousand Floating Dreams",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Sacrificial Fragments",
+            "note": "Ótima 4★"
+          },
+          {
+            "name": "Wandering Evenstar",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Mappa Mare",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais na equipe usa Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 2
+              },
+              {
+                "name": "Wanderer's Troupe",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas"
+          ],
+          "goblet": [
+            "eleMas"
+          ],
+          "circlet": [
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "eleMas": 1,
+          "enerRech_": 0.5,
+          "critRate_": 0.3,
+          "critDMG_": 0.3
+        },
+        "erTarget": "110–130%",
+        "erMin": 110,
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "Em equipes de Hiperflorescer/Florescer, a Proficiência Elemental dela é compartilhada com o personagem ativo pelo passivo A1 (Supremo ativo), então vale a pena empilhar Proficiência em tudo."
+      }
+    ]
+  },
+  {
+    "character": "Alhaitham",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Light of Foliar Incision",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Primordial Jade Cutter",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Mistsplitter Reforged",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Iron Sting",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Wolf-Fang",
+            "note": "Boa 4★ (dano de Habilidade e Supremo)"
+          },
+          {
+            "name": "Sapwood Blade",
+            "note": "Opção F2P forjável (Proficiência)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor em equipes de Propagação"
+          },
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais carrega Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 2
+              },
+              {
+                "name": "Wanderer's Troupe",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas",
+            "atk_"
+          ],
+          "goblet": [
+            "dendro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "eleMas": 0.75,
+          "atk_": 0.6,
+          "enerRech_": 0.3,
+          "atk": 0.2
+        },
+        "erTarget": "110–130%",
+        "erMin": 110,
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "Mantenha sempre 2–3 Espelhos ativos: ataques dele geram projeções que causam o grosso do dano. Proficiência Elemental aumenta o dano dos espelhos e do Supremo (passivo A4), então até ~200–300 de Proficiência ainda rende bem junto com Crítico."
+      }
+    ]
+  },
+  {
+    "character": "Tighnari",
+    "roles": [
+      {
+        "name": "DPS principal (Ataque Carregado)",
+        "weapons": [
+          {
+            "name": "Hunter's Path",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Aqua Simulacra",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Thundering Pulse",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "King's Squire",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "The Stringless",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Windblume Ode",
+            "note": "Opção 4★ de evento"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Wanderer's Troupe",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se for o único com Deepwood na equipe"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas",
+            "atk_"
+          ],
+          "goblet": [
+            "dendro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.75,
+          "enerRech_": 0.3,
+          "atk": 0.2
+        },
+        "erTarget": "110–130%",
+        "erMin": 110,
+        "talentPriority": [
+          "auto",
+          "burst",
+          "skill"
+        ],
+        "tips": "Use a Habilidade Elemental antes de começar para ganhar as Flechas Clusterbloom com carga rápida. Fica melhor em Propagação com Fischl/Yae Miko e Nahida; Proficiência ajuda bastante pelo passivo dele."
+      }
+    ]
+  },
+  {
+    "character": "Cyno",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Staff of the Scarlet Sands",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Primordial Jade Winged-Spear",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Ballad of the Fjords",
+            "note": "Boa 4★ (Proficiência)"
+          },
+          {
+            "name": "Kitain Cross Spear",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Deathmatch",
+            "note": "Boa 4★ (Taxa Crítica)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor em Propagação"
+          },
+          {
+            "sets": [
+              {
+                "name": "Thundering Fury",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 2
+              },
+              {
+                "name": "Thundering Fury",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas",
+            "atk_"
+          ],
+          "goblet": [
+            "electro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "eleMas": 0.75,
+          "atk_": 0.6,
+          "enerRech_": 0.5,
+          "atk": 0.2
+        },
+        "erTarget": "130–160% (depende da equipe)",
+        "erMin": 130,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "Quase todo o dano vem do Supremo (Pactsworn Pathclearer). Durante ele, use a Habilidade sempre que o Endseer Stance aparecer para ganhar os disparos extras de Duskbolt. Ter Recarga suficiente para usar o Supremo sem esperar é o mais importante."
+      }
+    ]
+  },
+  {
+    "character": "Nilou",
+    "roles": [
+      {
+        "name": "Suporte de Florescer (Bountiful Core)",
+        "weapons": [
+          {
+            "name": "Key of Khaj-Nisut",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Primordial Jade Cutter",
+            "note": "5★ (Vida%)"
+          },
+          {
+            "name": "Iron Sting",
+            "note": "Opção F2P forjável (Proficiência)"
+          },
+          {
+            "name": "Sapwood Blade",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Favonius Sword",
+            "note": "Opção 4★ de energia"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 2
+              },
+              {
+                "name": "Vourukasha's Glow",
+                "pieces": 2
+              }
+            ],
+            "note": "Vida% 2+2"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Quando já tem muita Vida pela arma"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "hp_"
+          ]
+        },
+        "substats": {
+          "hp_": 1,
+          "eleMas": 0.6,
+          "enerRech_": 0.4,
+          "hp": 0.3
+        },
+        "erTarget": "100–120%",
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "O bônus do Cálice Dourado só funciona se a equipe tiver APENAS personagens Hydro e Dendro. Cada 1.000 de Vida acima de 30.000 aumenta o dano de Florescer — mire em 60–70 mil de Vida."
+      }
+    ]
+  },
+  {
+    "character": "Wanderer",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Tulaytullah's Remembrance",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Lost Prayer to the Sacred Winds",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Kagura's Verity",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "The Widsith",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Solar Pearl",
+            "note": "Opção 4★ do Passe de Batalha"
+          },
+          {
+            "name": "Flowing Purity",
+            "note": "Opção 4★ acessível"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Desert Pavilion Chronicle",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Shimenawa's Reminiscence",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Desert Pavilion Chronicle",
+                "pieces": 2
+              },
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "anemo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.3,
+          "eleMas": 0.2,
+          "atk": 0.3
+        },
+        "erTarget": "100–120%",
+        "talentPriority": [
+          "auto",
+          "skill",
+          "burst"
+        ],
+        "tips": "Durante a Habilidade ele flutua e os Ataques Normais/Carregados viram o dano principal. Faruzan (de preferência C6) e Bennett são os melhores parceiros; tocar Pyro/Cryo/Hydro/Electro na Habilidade dá buffs extras pelo passivo."
+      }
+    ]
+  },
+  {
+    "character": "Faruzan",
+    "roles": [
+      {
+        "name": "Suporte (buff Anemo)",
+        "weapons": [
+          {
+            "name": "Favonius Warbow",
+            "note": "Melhor no geral (energia)"
+          },
+          {
+            "name": "Elegy for the End",
+            "note": "5★"
+          },
+          {
+            "name": "Sacrificial Bow",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "The Stringless",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Emblem of Severed Fate",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "enerRech_",
+            "atk_"
+          ],
+          "goblet": [
+            "anemo_dmg_",
+            "atk_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_",
+            "atk_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "critRate_": 0.6,
+          "critDMG_": 0.6,
+          "atk_": 0.5
+        },
+        "erTarget": "220–270% (menos com C6 e Favonius)",
+        "erMin": 200,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "O que importa é ter Recarga para usar o Supremo toda rotação — ele dá Bônus de Dano Anemo e redução de RES Anemo. Na C6 ela vira muito melhor (buff de Dano Crítico Anemo e ataques adicionais), sendo essencial para Xiao e Andarilho."
+      }
+    ]
+  },
+  {
+    "character": "Collei",
+    "roles": [
+      {
+        "name": "Sub-DPS / Aplicação Dendro",
+        "weapons": [
+          {
+            "name": "Elegy for the End",
+            "note": "5★"
+          },
+          {
+            "name": "Favonius Warbow",
+            "note": "Ótima 4★ (energia)"
+          },
+          {
+            "name": "Sacrificial Bow",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "The Stringless",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Windblume Ode",
+            "note": "Opção 4★ de evento"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais carrega Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Emblem of Severed Fate",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 2
+              },
+              {
+                "name": "Deepwood Memories",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "enerRech_",
+            "atk_",
+            "eleMas"
+          ],
+          "goblet": [
+            "dendro_dmg_",
+            "eleMas"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_",
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "enerRech_": 0.8,
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.6,
+          "eleMas": 0.6
+        },
+        "erTarget": "150–180%",
+        "erMin": 150,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "Ótima portadora F2P de Deepwood. Use Habilidade e Supremo juntos; em Florescer/Hiperflorescer prefira Proficiência Elemental nas peças principais."
+      }
+    ]
+  },
+  {
+    "character": "Dori",
+    "roles": [
+      {
+        "name": "Suporte (cura/energia)",
+        "weapons": [
+          {
+            "name": "Favonius Greatsword",
+            "note": "Melhor 4★ (energia)"
+          },
+          {
+            "name": "Sacrificial Greatsword",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Katsuragikiri Nagamasa",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Makhaira Aquamarine",
+            "note": "Opção 4★ (Proficiência)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Emblem of Severed Fate",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "enerRech_",
+            "hp_"
+          ],
+          "goblet": [
+            "hp_",
+            "electro_dmg_"
+          ],
+          "circlet": [
+            "hp_",
+            "heal_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "hp_": 0.8,
+          "critRate_": 0.3,
+          "critDMG_": 0.3,
+          "hp": 0.2
+        },
+        "erTarget": "160–200%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "O Supremo dela cura e devolve energia ao personagem ativo; a cura escala com Vida. Ótima bateria para Raiden Shogun e personagens com Supremo caro."
+      }
+    ]
+  },
+  {
+    "character": "Candace",
+    "roles": [
+      {
+        "name": "Suporte (buff de Ataque Normal)",
+        "weapons": [
+          {
+            "name": "Favonius Lance",
+            "note": "Melhor 4★"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ (Vida%)"
+          },
+          {
+            "name": "\"The Catch\"",
+            "note": "Opção F2P (pesca), R5"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Emblem of Severed Fate",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "hp_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "hp_": 0.8,
+          "hp": 0.3
+        },
+        "erTarget": "160–200%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "O Supremo infunde Hydro nos Ataques Normais da equipe e aumenta seu dano conforme a Vida dela. Funciona melhor com DPS de Ataque Normal (Cyno, Nilou Florescer, etc.)."
+      }
+    ]
+  },
+  {
+    "character": "Layla",
+    "roles": [
+      {
+        "name": "Suporte (escudo)",
+        "weapons": [
+          {
+            "name": "Key of Khaj-Nisut",
+            "note": "5★ (Vida%)"
+          },
+          {
+            "name": "Favonius Sword",
+            "note": "Boa 4★ (energia)"
+          },
+          {
+            "name": "Sacrificial Sword",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Fleuve Cendre Ferryman",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Iron Sting",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 2
+              },
+              {
+                "name": "Ocean-Hued Clam",
+                "pieces": 2
+              }
+            ],
+            "note": "Vida% 2+2"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_"
+          ],
+          "goblet": [
+            "hp_",
+            "cryo_dmg_"
+          ],
+          "circlet": [
+            "hp_"
+          ]
+        },
+        "substats": {
+          "hp_": 1,
+          "enerRech_": 0.5,
+          "critRate_": 0.3,
+          "critDMG_": 0.3,
+          "hp": 0.3
+        },
+        "erTarget": "120–140%",
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "Escudo de Vida forte com aplicação Cryo para Congelar. Use Vida% em tudo; o dano dela é secundário."
+      }
+    ]
+  },
+  {
+    "character": "Yaoyao",
+    "roles": [
+      {
+        "name": "Suporte (cura)",
+        "weapons": [
+          {
+            "name": "Favonius Lance",
+            "note": "Boa 4★ (energia)"
+          },
+          {
+            "name": "Dialogues of the Desert Sages",
+            "note": "Boa 4★ (Vida%)"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ (Vida%)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais carrega Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Song of Days Past",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Ocean-Hued Clam",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "heal_",
+            "hp_"
+          ]
+        },
+        "substats": {
+          "hp_": 1,
+          "enerRech_": 0.7,
+          "eleMas": 0.3,
+          "hp": 0.3
+        },
+        "erTarget": "130–150%",
+        "erMin": 130,
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "Cura constante fora de campo pela Habilidade, escalando com Vida. Boa portadora de Deepwood em equipes Dendro."
+      }
+    ]
+  },
+  {
+    "character": "Kaveh",
+    "roles": [
+      {
+        "name": "Suporte / Gatilho de Florescer",
+        "weapons": [
+          {
+            "name": "Mailed Flower",
+            "note": "Ótima 4★ de evento (Proficiência)"
+          },
+          {
+            "name": "Makhaira Aquamarine",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Forest Regalia",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Favonius Greatsword",
+            "note": "Opção de energia"
+          },
+          {
+            "name": "Sacrificial Greatsword",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais carrega Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Flower of Paradise Lost",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas"
+          ],
+          "goblet": [
+            "eleMas"
+          ],
+          "circlet": [
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "eleMas": 1,
+          "enerRech_": 0.6
+        },
+        "erTarget": "130–160%",
+        "erMin": 130,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "Florescer não pode critar: empilhe Proficiência Elemental. O Supremo infunde Dendro e faz a Habilidade estourar os núcleos de Florescer próximos."
+      }
+    ]
+  },
+  {
+    "character": "Baizhu",
+    "roles": [
+      {
+        "name": "Suporte (cura/escudo)",
+        "weapons": [
+          {
+            "name": "Jadefall's Splendor",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Everlasting Moonglow",
+            "note": "5★ (Vida%/cura)"
+          },
+          {
+            "name": "Prototype Amber",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Favonius Codex",
+            "note": "Boa 4★ (energia)"
+          },
+          {
+            "name": "Wandering Evenstar",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais carrega Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Ocean-Hued Clam",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "hp_",
+            "heal_"
+          ]
+        },
+        "substats": {
+          "hp_": 1,
+          "enerRech_": 0.7,
+          "hp": 0.3
+        },
+        "erTarget": "150–180%",
+        "erMin": 150,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "Com Vida alta, o passivo dele aumenta o dano de reações Dendro (Florescer, Agravar, Propagação…) do personagem ativo. O Supremo dá escudo e cura em toda a equipe."
+      }
+    ]
+  },
+  {
+    "character": "Dehya",
+    "roles": [
+      {
+        "name": "Sub-DPS",
+        "weapons": [
+          {
+            "name": "Beacon of the Reed Sea",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Wolf's Gravestone",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Serpent Spine",
+            "note": "Boa 4★ (Passe de Batalha)"
+          },
+          {
+            "name": "Favonius Greatsword",
+            "note": "Opção 4★ de energia"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Emblem of Severed Fate",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              },
+              {
+                "name": "Crimson Witch of Flames",
+                "pieces": 2
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "hp_"
+          ],
+          "goblet": [
+            "pyro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.7,
+          "hp_": 0.5,
+          "enerRech_": 0.5,
+          "atk": 0.2
+        },
+        "erTarget": "130–160%",
+        "erMin": 130,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "O campo da Habilidade causa dano Pyro e absorve parte do dano recebido pela equipe ativa (resistência à interrupção). Fica melhor como Pyro secundária em Queimar/Florescer ou com Tartaglia/Neuvillette pela proteção."
+      }
+    ]
+  },
+  {
+    "character": "Mika",
+    "roles": [
+      {
+        "name": "Suporte (cura/buff Físico)",
+        "weapons": [
+          {
+            "name": "Favonius Lance",
+            "note": "Melhor 4★ (energia)"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ (Vida%)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Ocean-Hued Clam",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "heal_",
+            "hp_"
+          ]
+        },
+        "substats": {
+          "hp_": 1,
+          "enerRech_": 0.8,
+          "hp": 0.3
+        },
+        "erTarget": "140–180%",
+        "erMin": 140,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "A Habilidade dá Velocidade de Ataque e o Supremo cura a equipe com base na Vida. Melhor com DPS Físicos ou de Ataque Normal, como Eula, Wriothesley e Ayaka."
+      }
+    ]
+  },
+  {
+    "character": "Sethos",
+    "roles": [
+      {
+        "name": "Sub-DPS (Agravar)",
+        "weapons": [
+          {
+            "name": "The First Great Magic",
+            "note": "5★"
+          },
+          {
+            "name": "Hunter's Path",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "The Stringless",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "King's Squire",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Windblume Ode",
+            "note": "Opção 4★ de evento"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Wanderer's Troupe",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Thundering Fury",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas",
+            "atk_"
+          ],
+          "goblet": [
+            "electro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "eleMas": 0.8,
+          "atk_": 0.6,
+          "enerRech_": 0.4,
+          "atk": 0.2
+        },
+        "erTarget": "120–140%",
+        "talentPriority": [
+          "auto",
+          "burst"
+        ],
+        "tips": "O dano dele vem do Ataque Carregado mirado (Shadowpiercing Shot), que escala com Proficiência Elemental. Use o Supremo para transformar os Ataques Normais em disparos Electro e combine com Propagação/Agravar."
+      }
+    ]
+  },
+  {
+    "character": "Neuvillette",
+    "roles": [
+      {
+        "name": "DPS principal (Ataque Carregado)",
+        "weapons": [
+          {
+            "name": "Tome of the Eternal Flow",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Cashflow Supervision",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Sacrificial Jade",
+            "note": "Ótima 4★ (Vida% e Taxa Crítica)"
+          },
+          {
+            "name": "Prototype Amber",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Ring of Yaxche",
+            "note": "Opção 4★ (Vida%)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Marechaussee Hunter",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Heart of Depth",
+                "pieces": 2
+              },
+              {
+                "name": "Vourukasha's Glow",
+                "pieces": 2
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Heart of Depth",
+                "pieces": 2
+              },
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_"
+          ],
+          "goblet": [
+            "hydro_dmg_",
+            "hp_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "hp_": 0.75,
+          "enerRech_": 0.3,
+          "eleMas": 0.2,
+          "hp": 0.25
+        },
+        "erTarget": "110–130%",
+        "talentPriority": [
+          "auto",
+          "burst",
+          "skill"
+        ],
+        "tips": "O dano principal é o Ataque Carregado contínuo (Equitable Judgment); pegue as Gotas Sourcewater (da Habilidade, Supremo e reações Hydro) antes de carregar para encurtar o tempo de carga. Furina é a parceira ideal — ela ativa o Marechaussee e dá enorme buff de dano."
+      }
+    ]
+  },
+  {
+    "character": "Furina",
+    "roles": [
+      {
+        "name": "Sub-DPS / Suporte",
+        "weapons": [
+          {
+            "name": "Splendor of Tranquil Waters",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Key of Khaj-Nisut",
+            "note": "5★ (Vida%)"
+          },
+          {
+            "name": "Fleuve Cendre Ferryman",
+            "note": "Ótima opção F2P forjável (Recarga e Taxa Crítica)"
+          },
+          {
+            "name": "Festering Desire",
+            "note": "Boa 4★ de evento"
+          },
+          {
+            "name": "Favonius Sword",
+            "note": "Opção de energia"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Golden Troupe",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Golden Troupe",
+                "pieces": 2
+              },
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "hp_",
+            "hydro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "hp_": 0.75,
+          "enerRech_": 0.6,
+          "hp": 0.3
+        },
+        "erTarget": "180–200% (C0, sem outra bateria Hydro)",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "O Supremo acumula Fanfarra sempre que a Vida da equipe sobe ou desce — por isso ela brilha com um curador (Bennett, Charlotte, Kokomi, Jean…). Os Salon Members (modo Ousia, o padrão) drenam Vida da equipe para causar mais dano — mantenha-a no modo Ousia e deixe a cura com outro personagem."
+      }
+    ]
+  },
+  {
+    "character": "Wriothesley",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Cashflow Supervision",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Tulaytullah's Remembrance",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Kagura's Verity",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "The Widsith",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Flowing Purity",
+            "note": "Opção 4★ acessível"
+          },
+          {
+            "name": "Solar Pearl",
+            "note": "Opção 4★ do Passe de Batalha"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Marechaussee Hunter",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Blizzard Strayer",
+                "pieces": 4
+              }
+            ],
+            "note": "Em equipes de Congelar"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              },
+              {
+                "name": "Shimenawa's Reminiscence",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "cryo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.2,
+          "eleMas": 0.2,
+          "atk": 0.3
+        },
+        "erTarget": "100–120%",
+        "talentPriority": [
+          "auto",
+          "skill",
+          "burst"
+        ],
+        "tips": "A Habilidade consome Vida para fortalecer os Ataques Normais; mantenha a Vida acima de 50% e use o Ataque Carregado especial (Rebuke) sempre que disponível. Marechaussee ativa sozinho com a perda de Vida dele."
+      }
+    ]
+  },
+  {
+    "character": "Navia",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Verdict",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Wolf's Gravestone",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Serpent Spine",
+            "note": "Boa 4★ (Passe de Batalha)"
+          },
+          {
+            "name": "Tidal Shadow",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Blackcliff Slasher",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Nighttime Whispers in the Echoing Woods",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Nighttime Whispers in the Echoing Woods",
+                "pieces": 2
+              },
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Golden Troupe",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "geo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.4,
+          "atk": 0.3
+        },
+        "erTarget": "120–140%",
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "Gere Cristalizar (com Pyro/Hydro/Electro/Cryo) para acumular Fragmentos e só então use a Habilidade — com 3 fragmentos o tiro é muito mais forte. Equipes com Bennett, Xiangling/Fischl e Furina são populares."
+      }
+    ]
+  },
+  {
+    "character": "Lyney",
+    "roles": [
+      {
+        "name": "DPS principal (Ataque Carregado)",
+        "weapons": [
+          {
+            "name": "The First Great Magic",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Aqua Simulacra",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Thundering Pulse",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Prototype Crescent",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "The Stringless",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Marechaussee Hunter",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              },
+              {
+                "name": "Shimenawa's Reminiscence",
+                "pieces": 2
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Wanderer's Troupe",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "pyro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.2,
+          "eleMas": 0.2,
+          "atk": 0.3
+        },
+        "erTarget": "100–120%",
+        "talentPriority": [
+          "auto",
+          "burst",
+          "skill"
+        ],
+        "tips": "O Ataque Carregado totalmente carregado (Prop Arrow) consome Vida e gera o Grin-Malkin Hat — isso também ativa o Marechaussee. Brilha em equipes Pyro mono (Bennett, Kazuha, Xiangling ou Chevreuse)."
+      }
+    ]
+  },
+  {
+    "character": "Lynette",
+    "roles": [
+      {
+        "name": "Suporte Anemo",
+        "weapons": [
+          {
+            "name": "Freedom-Sworn",
+            "note": "5★"
+          },
+          {
+            "name": "Favonius Sword",
+            "note": "Boa 4★ (energia)"
+          },
+          {
+            "name": "Sacrificial Sword",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Fleuve Cendre Ferryman",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Viridescent Venerer",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set (redução de RES)"
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "enerRech_",
+            "atk_"
+          ],
+          "goblet": [
+            "anemo_dmg_",
+            "atk_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_",
+            "atk_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "critRate_": 0.6,
+          "critDMG_": 0.6,
+          "atk_": 0.5
+        },
+        "erTarget": "140–180%",
+        "erMin": 140,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "O Supremo cria um boneco que atrai inimigos e Redemoinha, e o passivo dá ATQ% à equipe conforme a quantidade de elementos diferentes. Opção F2P útil de Viridescent."
+      }
+    ]
+  },
+  {
+    "character": "Freminet",
+    "roles": [
+      {
+        "name": "DPS principal (Físico)",
+        "weapons": [
+          {
+            "name": "Song of Broken Pines",
+            "note": "5★"
+          },
+          {
+            "name": "Wolf's Gravestone",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Serpent Spine",
+            "note": "Boa 4★ (Passe de Batalha)"
+          },
+          {
+            "name": "Prototype Archaic",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Pale Flame",
+                "pieces": 4
+              }
+            ],
+            "note": "Build Física"
+          },
+          {
+            "sets": [
+              {
+                "name": "Pale Flame",
+                "pieces": 2
+              },
+              {
+                "name": "Bloodstained Chivalry",
+                "pieces": 2
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Blizzard Strayer",
+                "pieces": 4
+              }
+            ],
+            "note": "Build Cryo em Congelar"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "physical_dmg_",
+            "cryo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.3,
+          "atk": 0.3
+        },
+        "erTarget": "120–140%",
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "O dano vem da Habilidade (Pressure Level) e, com o Supremo, os níveis de pressão sobem mais rápido. Fica melhor ao lado de Mika, Shenhe ou Rosaria/Ayaka para reduzir RES Física/Cryo."
+      }
+    ]
+  },
+  {
+    "character": "Charlotte",
+    "roles": [
+      {
+        "name": "Suporte (cura)",
+        "weapons": [
+          {
+            "name": "Favonius Codex",
+            "note": "Boa 4★ (energia)"
+          },
+          {
+            "name": "Prototype Amber",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Everlasting Moonglow",
+            "note": "5★"
+          },
+          {
+            "name": "Sacrificial Fragments",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Song of Days Past",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Ocean-Hued Clam",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "atk_"
+          ],
+          "circlet": [
+            "heal_",
+            "atk_"
+          ]
+        },
+        "substats": {
+          "atk_": 1,
+          "enerRech_": 0.8,
+          "atk": 0.3
+        },
+        "erTarget": "160–200%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill"
+        ],
+        "tips": "A cura escala com ATQ, não com Vida. Parceira muito usada com Furina, porque cura a equipe toda continuamente fora de campo pela Habilidade fortalecida."
+      }
+    ]
+  },
+  {
+    "character": "Chevreuse",
+    "roles": [
+      {
+        "name": "Suporte (Sobrecarga)",
+        "weapons": [
+          {
+            "name": "Favonius Lance",
+            "note": "Boa 4★ (energia)"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ (Vida%)"
+          },
+          {
+            "name": "Dialogues of the Desert Sages",
+            "note": "Opção 4★"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Song of Days Past",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "hp_",
+            "heal_"
+          ]
+        },
+        "substats": {
+          "hp_": 1,
+          "enerRech_": 0.7,
+          "hp": 0.3
+        },
+        "erTarget": "120–150%",
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "O passivo só ativa se a equipe tiver APENAS Pyro e Electro (com ao menos um de cada): ao Sobrecarregar, reduz RES Pyro/Electro e dá ATQ%. Ideal com Raiden, Clorinde e Xiangling."
+      }
+    ]
+  },
+  {
+    "character": "Clorinde",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Absolution",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Mistsplitter Reforged",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Light of Foliar Incision",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "The Black Sword",
+            "note": "Boa 4★ (Passe de Batalha)"
+          },
+          {
+            "name": "Calamity of Eshu",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Finale of the Deep",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Fragment of Harmonic Whimsy",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Thundering Fury",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              },
+              {
+                "name": "Fragment of Harmonic Whimsy",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "electro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.3,
+          "enerRech_": 0.2,
+          "atk": 0.3
+        },
+        "erTarget": "100–120%",
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "Durante a Habilidade, os tiros e golpes contam como Ataque Normal; atacar com o Laço da Vida acima de 100% faz golpes de lâmina mais fortes. Equipes de Agravar (Fischl, Nahida) ou Sobrecarga com Chevreuse são as mais fortes."
+      }
+    ]
+  },
+  {
+    "character": "Arlecchino",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Crimson Moon's Semblance",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Primordial Jade Winged-Spear",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Deathmatch",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Missive Windspear",
+            "note": "Opção 4★"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Fragment of Harmonic Whimsy",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "pyro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.3,
+          "enerRech_": 0.1,
+          "atk": 0.3
+        },
+        "erTarget": "100–110%",
+        "talentPriority": [
+          "auto",
+          "burst",
+          "skill"
+        ],
+        "tips": "Ela não recebe cura normal e transforma o Laço da Vida em dano dos Ataques Normais — junte o Laço (Habilidade + Ataque Carregado) antes de atacar. Escudos (Zhongli) ajudam no conforto; Vaporizar com Yelan/Xingqiu ou Furina é a melhor equipe."
+      }
+    ]
+  },
+  {
+    "character": "Sigewinne",
+    "roles": [
+      {
+        "name": "Suporte (cura)",
+        "weapons": [
+          {
+            "name": "Silvershower Heartstrings",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Favonius Warbow",
+            "note": "Boa 4★ (energia)"
+          },
+          {
+            "name": "Elegy for the End",
+            "note": "5★"
+          },
+          {
+            "name": "Sacrificial Bow",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Song of Days Past",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Ocean-Hued Clam",
+                "pieces": 4
+              }
+            ]
+          },
+          {
+            "sets": [
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "heal_",
+            "hp_"
+          ]
+        },
+        "substats": {
+          "hp_": 1,
+          "enerRech_": 0.6,
+          "critRate_": 0.3,
+          "critDMG_": 0.3,
+          "hp": 0.3
+        },
+        "erTarget": "120–140%",
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "Cura forte fora de campo pela Habilidade, escalando com Vida, e dá bônus de dano de Habilidade para a equipe pelo passivo. Combina bem com Furina e personagens fora de campo que gastam Vida."
+      }
+    ]
+  },
+  {
+    "character": "Emilie",
+    "roles": [
+      {
+        "name": "Sub-DPS (Queimar)",
+        "weapons": [
+          {
+            "name": "Lumidouce Elegy",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Primordial Jade Winged-Spear",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Deathmatch",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Missive Windspear",
+            "note": "Opção 4★"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Unfinished Reverie",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais carrega Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              },
+              {
+                "name": "Unfinished Reverie",
+                "pieces": 2
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "dendro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.3,
+          "atk": 0.3
+        },
+        "erTarget": "110–130%",
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "O dano dela aumenta contra inimigos sob efeito de Queimar. Funciona como Sub-DPS fora de campo em equipes de Queimar (ex.: com Kinich ou Arlecchino com Pyro)."
+      }
+    ]
+  },
+  {
+    "character": "Escoffier",
+    "roles": [
+      {
+        "name": "Sub-DPS / Suporte (Cryo)",
+        "weapons": [
+          {
+            "name": "Symphonist of Scents",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Primordial Jade Winged-Spear",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Deathmatch",
+            "note": "Boa 4★"
+          },
+          {
+            "name": "Favonius Lance",
+            "note": "Opção 4★ de energia"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Golden Troupe",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Blizzard Strayer",
+                "pieces": 4
+              }
+            ],
+            "note": "Em equipes de Congelar"
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ]
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "cryo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.6,
+          "atk": 0.3
+        },
+        "erTarget": "140–170%",
+        "erMin": 140,
+        "talentPriority": [
+          "skill",
+          "burst"
+        ],
+        "tips": "O passivo reduz RES Hydro e Cryo dos inimigos de acordo com o número de personagens Hydro/Cryo na equipe — monte equipes Cryo/Hydro (ex.: com Neuvillette, Furina, Skirk). Também cura a equipe fora de campo."
+      }
+    ]
+  }
+]

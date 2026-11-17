@@ -1,0 +1,2330 @@
+[
+  {
+    "character": "Kachina",
+    "roles": [
+      {
+        "name": "Sub-DPS",
+        "weapons": [
+          {
+            "name": "Favonius Lance",
+            "note": "Ajuda a bateria da equipe"
+          },
+          {
+            "name": "Footprint of the Rainbow",
+            "note": "Opção F2P forjável (escala com DEF)"
+          },
+          {
+            "name": "Engulfing Lightning",
+            "note": "5★, foco em Recarga"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor opção para buffar a equipe de Natlan"
+          },
+          {
+            "sets": [
+              {
+                "name": "Husk of Opulent Dreams",
+                "pieces": 2
+              },
+              {
+                "name": "Archaic Petra",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa de dano pessoal"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "enerRech_",
+            "def_"
+          ],
+          "goblet": [
+            "geo_dmg_",
+            "def_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "critRate_": 0.9,
+          "critDMG_": 0.9,
+          "def_": 0.75,
+          "def": 0.25
+        },
+        "erTarget": "140–160%",
+        "erMin": 140,
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "A Kachina causa dano com a Habilidade Elemental (a broca Turbo Twirly) escalando com DEF. Com o set do Herói de Cinder City ela vira uma ótima suporte Geo para times de Natlan que usam Alma Noturna."
+      }
+    ]
+  },
+  {
+    "character": "Kinich",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Fang of the Mountain King",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Beacon of the Reed Sea",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Verdict",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Earth Shaker",
+            "note": "Opção F2P forjável, R5 recomendado (time com Pyro)"
+          },
+          {
+            "name": "Fruitful Hook",
+            "note": "Opção 4★ de evento"
+          },
+          {
+            "name": "Serpent Spine",
+            "note": "Opção 4★ de gacha"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Obsidian Codex",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 2
+              },
+              {
+                "name": "Gilded Dreams",
+                "pieces": 2
+              }
+            ],
+            "note": "Use Deepwood se ninguém mais carregar o set"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "eleMas"
+          ],
+          "goblet": [
+            "dendro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "Quase todo o dano do Kinich vem da Habilidade Elemental (Canhão Giratório). Ele funciona melhor com Burning ou Burgeon, com Emilie ou Pyro de apoio, e quer Taxa/Dano Crítico acima de tudo."
+      }
+    ]
+  },
+  {
+    "character": "Mualani",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Surf's Up",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Sacrificial Jade",
+            "note": "Opção 4★ de gacha (HP)"
+          },
+          {
+            "name": "A Thousand Floating Dreams",
+            "note": "5★ para Vaporizar"
+          },
+          {
+            "name": "Tome of the Eternal Flow",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Ring of Yaxche",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "The Widsith",
+            "note": "Opção 4★ de gacha"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Obsidian Codex",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Heart of Depth",
+                "pieces": 2
+              },
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Heart of Depth",
+                "pieces": 2
+              },
+              {
+                "name": "Nymph's Dream",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "eleMas"
+          ],
+          "goblet": [
+            "hydro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "hp_": 0.75,
+          "eleMas": 0.5,
+          "enerRech_": 0.4,
+          "hp": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "auto",
+          "burst"
+        ],
+        "tips": "A Mualani escala com Vida e é jogada quase sempre Vaporizando (com Bennett, Xiangling ou Mavuika). Acumule Momentum batendo em vários inimigos antes da mordida do tubarão; Proficiência Elemental na ampulheta é ótima se você tiver muita Taxa Crítica."
+      }
+    ]
+  },
+  {
+    "character": "Xilonen",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Peak Patrol Song",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Favonius Sword",
+            "note": "Ajuda na Recarga do time"
+          },
+          {
+            "name": "Sacrificial Sword",
+            "note": "Mais usos da Habilidade"
+          },
+          {
+            "name": "Flute of Ezpitzal",
+            "note": "Opção F2P forjável (DEF)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Archaic Petra",
+                "pieces": 4
+              }
+            ],
+            "note": "Opção em times com Cristalizar"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "def_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "def_"
+          ],
+          "circlet": [
+            "def_",
+            "heal_"
+          ]
+        },
+        "substats": {
+          "def_": 1,
+          "enerRech_": 0.9,
+          "critRate_": 0.3,
+          "def": 0.4,
+          "heal_": 0.2
+        },
+        "erTarget": "130–160%",
+        "erMin": 130,
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "O mais importante na Xilonen é a redução de RES elemental da Habilidade Elemental, que não depende de atributos. Acumule DEF para a cura do Supremo e Recarga suficiente; ela precisa de colegas Pyro, Hydro, Cryo ou Electro para converter as amostras e reduzir a RES desses elementos."
+      }
+    ]
+  },
+  {
+    "character": "Chasca",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Astral Vulture's Crimson Plumage",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "The First Great Magic",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Aqua Simulacra",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Chain Breaker",
+            "note": "Opção F2P forjável, R5"
+          },
+          {
+            "name": "Flower-Wreathed Feathers",
+            "note": "Opção 4★ de Ataque Carregado"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Obsidian Codex",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Marechaussee Hunter",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "anemo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "Os disparos da Chasca durante a Habilidade Elemental convertem para o elemento dos colegas (Pyro, Hydro, Cryo, Electro). Monte o time com 2–3 desses elementos diferentes, idealmente Mavuika, Bennett ou Furina e Ororon."
+      }
+    ]
+  },
+  {
+    "character": "Ororon",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Polar Star",
+            "note": "5★"
+          },
+          {
+            "name": "The First Great Magic",
+            "note": "5★"
+          },
+          {
+            "name": "Thundering Pulse",
+            "note": "5★"
+          },
+          {
+            "name": "Aqua Simulacra",
+            "note": "5★"
+          },
+          {
+            "name": "Chain Breaker",
+            "note": "Opção F2P forjável, R5"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set para buffar a equipe"
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Emblem of Severed Fate",
+                "pieces": 4
+              }
+            ],
+            "note": "Foco em dano próprio"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "electro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "critRate_": 0.9,
+          "critDMG_": 0.9,
+          "atk_": 0.75,
+          "atk": 0.25
+        },
+        "erTarget": "160–180%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "O Ororon causa dano Electro fora de campo quando os colegas ganham Alma Noturna, combinando muito bem com a Chasca. Garanta Recarga de Energia suficiente para manter o Supremo."
+      }
+    ]
+  },
+  {
+    "character": "Mavuika",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "A Thousand Blazing Suns",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Verdict",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Wolf's Gravestone",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Serpent Spine",
+            "note": "Opção 4★ de gacha"
+          },
+          {
+            "name": "Prototype Archaic",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Obsidian Codex",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Obsidian Codex",
+                "pieces": 2
+              },
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "eleMas"
+          ],
+          "goblet": [
+            "pyro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "O Supremo da Mavuika usa Espírito de Luta (gerado por gastos de Alma Noturna dos colegas) em vez de energia, então Recarga é irrelevante. Ela causa a maior parte do dano montada na moto durante o Supremo; use Proficiência Elemental se jogar com Vaporizar/Derreter."
+      }
+    ]
+  },
+  {
+    "character": "Citlali",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Starcaller's Watch",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "A Thousand Floating Dreams",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Sacrificial Fragments",
+            "note": "Opção 4★ de gacha"
+          },
+          {
+            "name": "Favonius Codex",
+            "note": "Opção 4★ para Recarga"
+          },
+          {
+            "name": "Wandering Evenstar",
+            "note": "Opção 4★ de Proficiência"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas",
+            "enerRech_"
+          ],
+          "goblet": [
+            "eleMas"
+          ],
+          "circlet": [
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "eleMas": 1,
+          "enerRech_": 0.9,
+          "critRate_": 0.3,
+          "critDMG_": 0.3,
+          "hp_": 0.1
+        },
+        "erTarget": "130–150%",
+        "erMin": 130,
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "A Citlali reduz a RES Pyro e Hydro dos inimigos e gera escudo; o escudo e o dano escalam com Proficiência Elemental. Ótima com Mavuika em Derreter ou em times de Congelar/Lunar-Charged."
+      }
+    ]
+  },
+  {
+    "character": "Iansan",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Calamity Queller",
+            "note": "5★"
+          },
+          {
+            "name": "Engulfing Lightning",
+            "note": "5★"
+          },
+          {
+            "name": "Favonius Lance",
+            "note": "Opção 4★ para Recarga"
+          },
+          {
+            "name": "Tamayuratei no Ohanashi",
+            "note": "Opção F2P de evento"
+          },
+          {
+            "name": "Prototype Starglitter",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "atk_"
+          ],
+          "circlet": [
+            "atk_"
+          ]
+        },
+        "substats": {
+          "atk_": 1,
+          "enerRech_": 1,
+          "critRate_": 0.3,
+          "atk": 0.4
+        },
+        "erTarget": "160–200%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "O buff de ATQ do Supremo da Iansan escala com o ATQ dela, então foque em ATQ% e Recarga de Energia. Ela é ótima com Mavuika, pois gasta e gera Alma Noturna."
+      }
+    ]
+  },
+  {
+    "character": "Varesa",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Vivid Notions",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Reliquary of Truth",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Kagura's Verity",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Lost Prayer to the Sacred Winds",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Clash of Kings",
+            "note": "Opção 4★"
+          },
+          {
+            "name": "Ring of Yaxche",
+            "note": "Opção F2P forjável"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Long Night's Oath",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Obsidian Codex",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Long Night's Oath",
+                "pieces": 2
+              },
+              {
+                "name": "Thundering Fury",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "electro_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "auto",
+          "burst",
+          "skill"
+        ],
+        "tips": "A Varesa causa dano com Ataques Mergulhantes (Plunging) após a Habilidade Elemental, alternando para a forma Fervor Ardente. Iansan e Chevreuse/Xilonen são ótimas parceiras; Recarga ajuda a ter o Supremo sempre."
+      }
+    ]
+  },
+  {
+    "character": "Ifa",
+    "roles": [
+      {
+        "name": "Sub-DPS / Suporte (cura)",
+        "weapons": [
+          {
+            "name": "Tulaytullah's Remembrance",
+            "note": "5★"
+          },
+          {
+            "name": "Lost Prayer to the Sacred Winds",
+            "note": "5★"
+          },
+          {
+            "name": "Surf's Up",
+            "note": "5★"
+          },
+          {
+            "name": "Vivid Notions",
+            "note": "5★"
+          },
+          {
+            "name": "Flowing Purity",
+            "note": "Opção 4★, R5"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Obsidian Codex",
+                "pieces": 4
+              }
+            ],
+            "note": "Foco em dano"
+          },
+          {
+            "sets": [
+              {
+                "name": "Viridescent Venerer",
+                "pieces": 4
+              }
+            ],
+            "note": "Redução de RES para o time"
+          },
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Foco em suporte"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "eleMas"
+          ],
+          "goblet": [
+            "anemo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.6,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "O Ifa cura e aplica Anemo enquanto está em Alma Noturna; os pontos de Alma Noturna aumentam o dano de Redemoinho e Eletricamente Carregado do time. Use Viridescent Venerer se ninguém mais carregar o set."
+      }
+    ]
+  },
+  {
+    "character": "Skirk",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Azurelight",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Haran Geppaku Futsu",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Mistsplitter Reforged",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Calamity of Eshu",
+            "note": "Opção 4★, R5"
+          },
+          {
+            "name": "Finale of the Deep",
+            "note": "Opção F2P forjável, R5"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Finale of the Deep Galleries",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Finale of the Deep Galleries",
+                "pieces": 2
+              },
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Desert Pavilion Chronicle",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "cryo_dmg_",
+            "atk_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "auto",
+          "burst",
+          "skill"
+        ],
+        "tips": "A Skirk não usa energia: o Supremo consome Serpent's Subtlety. Jogue com Hydro e Cryo (Escoffier, Furina, Citlali) para que os golpes dela absorvam Rachaduras do Vazio e aumentem o dano."
+      }
+    ]
+  },
+  {
+    "character": "Ineffa",
+    "roles": [
+      {
+        "name": "Sub-DPS",
+        "weapons": [
+          {
+            "name": "Fractured Halo",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Staff of the Scarlet Sands",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Symphonist of Scents",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Deathmatch",
+            "note": "Opção 4★ do BP/gacha"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Aubade of Morningstar and Moon",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Silken Moon's Serenade",
+                "pieces": 4
+              }
+            ],
+            "note": "Foco em suporte"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "atk_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.8,
+          "enerRech_": 0.5,
+          "eleMas": 0.4,
+          "atk": 0.3
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "A Ineffa é uma suporte fora de campo para times de Lunar-Charged (Electro + Hydro): o robô da Habilidade causa dano Lunar e ela aumenta a Proficiência Elemental do time com base no ATQ. Por isso, mesmo com Electro, use cálice de ATQ%."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Lauma",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Nightweaver's Looking Glass",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "A Thousand Floating Dreams",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Etherlight Spindlelute",
+            "note": "Opção 4★, R5"
+          },
+          {
+            "name": "Starcaller's Watch",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Blackmarrow Lantern",
+            "note": "Opção 4★, R5"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Silken Moon's Serenade",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Deepwood Memories",
+                "pieces": 4
+              }
+            ],
+            "note": "Se ninguém mais usar Deepwood"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas",
+            "enerRech_"
+          ],
+          "goblet": [
+            "eleMas"
+          ],
+          "circlet": [
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "eleMas": 1,
+          "enerRech_": 0.9,
+          "critRate_": 0.3,
+          "critDMG_": 0.3
+        },
+        "erTarget": "~150%",
+        "erMin": 140,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "A Lauma é a peça central de times de Lunar-Bloom (Dendro + Hydro) e escala tudo com Proficiência Elemental. Equilibre Recarga e Proficiência; ela também reduz a RES Dendro/Hydro com a Habilidade Elemental."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Flins",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Bloodsoaked Ruins",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Staff of the Scarlet Sands",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Fractured Halo",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Ballad of the Fjords",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Night of the Sky's Unveiling",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 2
+              },
+              {
+                "name": "Night of the Sky's Unveiling",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "atk_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "enerRech_": 0.7,
+          "eleMas": 0.4,
+          "atk": 0.25
+        },
+        "erTarget": "~140%",
+        "erMin": 130,
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "O Flins é DPS de Lunar-Charged (Electro + Hydro) e o dano Lunar não usa bônus de dano elemental, por isso o cálice é ATQ%. Ele quer Recarga de Energia para usar o Supremo em toda rotação."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Aino",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Favonius Greatsword",
+            "note": "Melhor opção para Recarga"
+          },
+          {
+            "name": "Makhaira Aquamarine",
+            "note": "Opção 4★ de Proficiência"
+          },
+          {
+            "name": "Master Key",
+            "note": "Opção 4★"
+          },
+          {
+            "name": "Flame-Forged Insight",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Silken Moon's Serenade",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "enerRech_",
+            "eleMas"
+          ],
+          "goblet": [
+            "eleMas"
+          ],
+          "circlet": [
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "eleMas": 1,
+          "critRate_": 0.3,
+          "critDMG_": 0.3
+        },
+        "erTarget": "160–180%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "A Aino é uma suporte Hydro 4★ que aplica Hydro fora de campo com o Supremo, ideal para Lunar-Bloom e Lunar-Charged. Priorize Recarga até ter o Supremo sempre e depois Proficiência Elemental."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Nefer",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Reliquary of Truth",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Nightweaver's Looking Glass",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Sunny Morning Sleep-In",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Starcaller's Watch",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Blackmarrow Lantern",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Night of the Sky's Unveiling",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas"
+          ],
+          "goblet": [
+            "eleMas"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "eleMas": 0.9,
+          "enerRech_": 0.4,
+          "atk_": 0.2
+        },
+        "talentPriority": [
+          "skill",
+          "auto",
+          "burst"
+        ],
+        "tips": "A Nefer é DPS de Lunar-Bloom e escala com Proficiência Elemental, por isso ampulheta e cálice de PE. Jogue com Hydro (Aino, Columbina) e Lauma para ativar o Lunar-Bloom."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Durin",
+    "roles": [
+      {
+        "name": "Sub-DPS",
+        "weapons": [
+          {
+            "name": "Athame Artis",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Primordial Jade Cutter",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Azurelight",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Mistsplitter Reforged",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Wolf-Fang",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "A Day Carved From Rising Winds",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Crimson Witch of Flames",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Emblem of Severed Fate",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "pyro_dmg_",
+            "atk_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "O Durin é um Sub-DPS Pyro de ATQ; foque em Taxa/Dano Crítico e ATQ%. Recarga de Energia ajuda se o Supremo não estiver disponível a cada rotação."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Jahoda",
+    "roles": [
+      {
+        "name": "Suporte (cura)",
+        "weapons": [
+          {
+            "name": "Favonius Warbow",
+            "note": "Melhor opção para Recarga"
+          },
+          {
+            "name": "Elegy for the End",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Rainbow Serpent's Rain Bow",
+            "note": "Opção 4★, R5"
+          },
+          {
+            "name": "Snare Hook",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Viridescent Venerer",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Silken Moon's Serenade",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "atk_"
+          ],
+          "circlet": [
+            "atk_",
+            "heal_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "atk_": 0.8,
+          "critRate_": 0.3,
+          "heal_": 0.3,
+          "atk": 0.3
+        },
+        "erTarget": "150–180%",
+        "erMin": 150,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "A Jahoda é uma curandeira Anemo 4★; a cura escala com ATQ. Use Viridescent Venerer para reduzir a RES dos inimigos com Redemoinho."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Columbina",
+    "roles": [
+      {
+        "name": "Sub-DPS",
+        "weapons": [
+          {
+            "name": "Nocturne's Curtain Call",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Sacrificial Jade",
+            "note": "Opção 4★ de gacha (HP)"
+          },
+          {
+            "name": "Prototype Amber",
+            "note": "Opção F2P forjável, R5"
+          },
+          {
+            "name": "Favonius Codex",
+            "note": "Opção 4★ para Recarga"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Silken Moon's Serenade",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Aubade of Morningstar and Moon",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Aubade of Morningstar and Moon",
+                "pieces": 2
+              },
+              {
+                "name": "Silken Moon's Serenade",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Aubade of Morningstar and Moon",
+                "pieces": 2
+              },
+              {
+                "name": "Tenacity of the Millelith",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "hp_",
+            "enerRech_"
+          ],
+          "goblet": [
+            "hp_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "critRate_": 0.9,
+          "critDMG_": 0.9,
+          "hp_": 0.75,
+          "hp": 0.25
+        },
+        "erTarget": "160–180%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "A Columbina é uma Sub-DPS Hydro que escala com Vida e reforça times de reações Lunares. Garanta Recarga de Energia antes de buscar Crítico."
+      }
+    ],
+    "confidence": "media"
+  },
+  {
+    "character": "Zibai",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Lightbearing Moonshard",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Uraku Misugiri",
+            "note": "5★ alternativa (DEF)"
+          },
+          {
+            "name": "Light of Foliar Incision",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Peak Patrol Song",
+            "note": "5★ alternativa (DEF)"
+          },
+          {
+            "name": "Cinnabar Spindle",
+            "note": "Opção 4★ de DEF (evento)"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Night of the Sky's Unveiling",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Husk of Opulent Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Husk of Opulent Dreams",
+                "pieces": 2
+              },
+              {
+                "name": "Night of the Sky's Unveiling",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "def_"
+          ],
+          "goblet": [
+            "def_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "def_": 0.75,
+          "enerRech_": 0.5,
+          "def": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "auto",
+          "burst"
+        ],
+        "tips": "O Zibai é um DPS Geo que escala com DEF. Use DEF% na ampulheta e no cálice e foque em Taxa/Dano Crítico."
+      }
+    ],
+    "confidence": "baixa"
+  },
+  {
+    "character": "Illuga",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Favonius Lance",
+            "note": "Melhor opção para Recarga"
+          },
+          {
+            "name": "Dragon's Bane",
+            "note": "Opção 4★ de Proficiência"
+          },
+          {
+            "name": "Kitain Cross Spear",
+            "note": "Opção F2P forjável"
+          },
+          {
+            "name": "Engulfing Lightning",
+            "note": "5★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Silken Moon's Serenade",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Aubade of Morningstar and Moon",
+                "pieces": 2
+              },
+              {
+                "name": "Flower of Paradise Lost",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "eleMas",
+            "enerRech_"
+          ],
+          "goblet": [
+            "eleMas"
+          ],
+          "circlet": [
+            "eleMas"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "eleMas": 1,
+          "critRate_": 0.3
+        },
+        "erTarget": "~150%",
+        "erMin": 140,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "O Illuga é um suporte Geo que escala com Proficiência Elemental para times de Lunar-Crystallize. Equilibre Recarga de Energia e Proficiência."
+      }
+    ],
+    "confidence": "baixa"
+  },
+  {
+    "character": "Varka",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Gest of the Mighty Wolf",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Beacon of the Reed Sea",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "A Thousand Blazing Suns",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Redhorn Stonethresher",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Serpent Spine",
+            "note": "Opção 4★ de gacha"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "A Day Carved From Rising Winds",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Shimenawa's Reminiscence",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Desert Pavilion Chronicle",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gladiator's Finale",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "atk_",
+            "anemo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "O Varka causa dano Anemo e de outros elementos do time, por isso o cálice de ATQ% costuma ser melhor que bônus Anemo. Foque em Taxa/Dano Crítico e ATQ%."
+      }
+    ],
+    "confidence": "baixa"
+  },
+  {
+    "character": "Lohen",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "Disaster and Remorse",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Fractured Halo",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Primordial Jade Winged-Spear",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Staff of Homa",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Deathmatch",
+            "note": "Opção 4★"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "A Day Carved From Rising Winds",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Blizzard Strayer",
+                "pieces": 4
+              }
+            ],
+            "note": "Em times de Congelar"
+          },
+          {
+            "sets": [
+              {
+                "name": "Shimenawa's Reminiscence",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "A Day Carved From Rising Winds",
+                "pieces": 2
+              },
+              {
+                "name": "Blizzard Strayer",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "cryo_dmg_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.75,
+          "eleMas": 0.4,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "O Lohen é um DPS Cryo de ATQ; build padrão de Crítico com cálice Cryo."
+      }
+    ],
+    "confidence": "baixa"
+  },
+  {
+    "character": "Linnea",
+    "roles": [
+      {
+        "name": "Sub-DPS / Suporte",
+        "weapons": [
+          {
+            "name": "Golden Frostbound Oath",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Elegy for the End",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Aqua Simulacra",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Hunter's Path",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Favonius Warbow",
+            "note": "Opção 4★ para Recarga"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Aubade of Morningstar and Moon",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Husk of Opulent Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Aubade of Morningstar and Moon",
+                "pieces": 2
+              },
+              {
+                "name": "Husk of Opulent Dreams",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "def_"
+          ],
+          "goblet": [
+            "def_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "def_": 0.75,
+          "eleMas": 0.5,
+          "enerRech_": 0.5,
+          "def": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "A Linnea escala com DEF e amplifica as reações de Lunar-Crystallize do time. Use DEF% na ampulheta e no cálice e foque em Crítico."
+      }
+    ],
+    "confidence": "baixa"
+  },
+  {
+    "character": "Nicole",
+    "roles": [
+      {
+        "name": "Suporte",
+        "weapons": [
+          {
+            "name": "Angelos' Heptades",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "Memory of Dust",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Crane's Echoing Call",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Skyward Atlas",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Oathsworn Eye",
+            "note": "Opção 4★ para Recarga"
+          },
+          {
+            "name": "Favonius Codex",
+            "note": "Opção 4★ de gacha"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Celestial Gift",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Scroll of the Hero of Cinder City",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Noblesse Oblige",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "enerRech_",
+            "atk_"
+          ],
+          "goblet": [
+            "atk_"
+          ],
+          "circlet": [
+            "atk_",
+            "critRate_"
+          ]
+        },
+        "substats": {
+          "enerRech_": 1,
+          "atk_": 0.8,
+          "critRate_": 0.4,
+          "critDMG_": 0.3,
+          "atk": 0.3
+        },
+        "erTarget": "160–180%",
+        "erMin": 160,
+        "talentPriority": [
+          "burst",
+          "skill",
+          "auto"
+        ],
+        "tips": "A Nicole é uma suporte Pyro que escala com ATQ; garanta Recarga de Energia primeiro e depois ATQ%."
+      }
+    ],
+    "confidence": "baixa"
+  },
+  {
+    "character": "Sandrone",
+    "roles": [
+      {
+        "name": "DPS principal",
+        "weapons": [
+          {
+            "name": "A Teaspoon of Transcendence",
+            "note": "Melhor arma (5★)"
+          },
+          {
+            "name": "A Thousand Blazing Suns",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Verdict",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Wolf's Gravestone",
+            "note": "5★ alternativa"
+          },
+          {
+            "name": "Blade of Atonement",
+            "note": "Opção 4★, R5"
+          }
+        ],
+        "artifactSets": [
+          {
+            "sets": [
+              {
+                "name": "Disenchantment in Deep Shadow",
+                "pieces": 4
+              }
+            ],
+            "note": "Melhor set"
+          },
+          {
+            "sets": [
+              {
+                "name": "Gilded Dreams",
+                "pieces": 4
+              }
+            ],
+            "note": "Alternativa"
+          },
+          {
+            "sets": [
+              {
+                "name": "Disenchantment in Deep Shadow",
+                "pieces": 2
+              },
+              {
+                "name": "Gilded Dreams",
+                "pieces": 2
+              }
+            ],
+            "note": "Alternativa"
+          }
+        ],
+        "mainStats": {
+          "sands": [
+            "atk_"
+          ],
+          "goblet": [
+            "atk_"
+          ],
+          "circlet": [
+            "critRate_",
+            "critDMG_"
+          ]
+        },
+        "substats": {
+          "critRate_": 1,
+          "critDMG_": 1,
+          "atk_": 0.8,
+          "eleMas": 0.5,
+          "enerRech_": 0.4,
+          "atk": 0.25
+        },
+        "talentPriority": [
+          "skill",
+          "burst",
+          "auto"
+        ],
+        "tips": "A Sandrone é uma DPS Cryo que escala com ATQ; os guias da comunidade recomendam cálice de ATQ% em vez de bônus Cryo. Foque em Taxa/Dano Crítico."
+      }
+    ],
+    "confidence": "baixa"
+  }
+]

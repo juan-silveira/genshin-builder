@@ -1,0 +1,3161 @@
+[
+ {
+  "character": "Bennett",
+  "roles": [
+   {
+    "name": "Suporte (cura/buff de ATQ)",
+    "weapons": [
+     {
+      "name": "Aquila Favonia",
+      "note": "5★, maior ATQ base para o buff"
+     },
+     {
+      "name": "Mistsplitter Reforged",
+      "note": "5★, ATQ base alto"
+     },
+     {
+      "name": "Sapwood Blade",
+      "note": "Opção F2P forjável, ATQ base alto e Recarga"
+     },
+     {
+      "name": "Prototype Rancour",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Favonius Sword",
+      "note": "Gera partículas para a equipe"
+     },
+     {
+      "name": "Sacrificial Sword",
+      "note": "Reutiliza a Habilidade, mais energia"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Padrão: +20% ATQ para a equipe"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 2
+       },
+       {
+        "name": "Ocean-Hued Clam",
+        "pieces": 2
+       }
+      ],
+      "note": "Se a cura for a prioridade"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_",
+      "hp_"
+     ],
+     "goblet": [
+      "hp_"
+     ],
+     "circlet": [
+      "heal_",
+      "hp_"
+     ]
+    },
+    "substats": {
+     "enerRech_": 1,
+     "hp_": 0.7,
+     "critRate_": 0.2,
+     "hp": 0.2
+    },
+    "erTarget": "200–250% (depende da equipe)",
+    "erMin": 200,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O buff do Supremo usa o ATQ BASE (personagem + arma), não o ATQ% dos artefatos — por isso armas de ATQ base alto valem mais que status. Garanta Recarga suficiente para soltar o Supremo toda rotação. Na C6 ele infunde Pyro nos aliados de espada/espadão/lança, o que atrapalha equipes de Derreter/Físico."
+   }
+  ]
+ },
+ {
+  "character": "Fischl",
+  "roles": [
+   {
+    "name": "Sub-DPS (fora de campo)",
+    "weapons": [
+     {
+      "name": "Aqua Simulacra",
+      "note": "5★, ótimo Dano Crítico"
+     },
+     {
+      "name": "Polar Star",
+      "note": "5★, Taxa Crítica"
+     },
+     {
+      "name": "The Stringless",
+      "note": "Ótima 4★ para Oz e reações (R5 ideal)"
+     },
+     {
+      "name": "Alley Hunter",
+      "note": "Boa 4★ de dano fora de campo"
+     },
+     {
+      "name": "Prototype Crescent",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Windblume Ode",
+      "note": "Opção F2P (evento), Proficiência Elemental"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Golden Troupe",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set: aumenta muito o dano da Habilidade (Oz)"
+     },
+     {
+      "sets": [
+       {
+        "name": "Thundering Fury",
+        "pieces": 4
+       }
+      ],
+      "note": "Bom em equipes de Agravar"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       },
+       {
+        "name": "Shimenawa's Reminiscence",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa ATQ% + ATQ%"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "electro_dmg_",
+      "atk_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.5,
+     "enerRech_": 0.2,
+     "atk": 0.25
+    },
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "Invoque Oz com a Habilidade e use o Supremo assim que Oz sumir para reinvocá-lo — assim ele fica quase 100% do tempo em campo. Recarga quase não importa. A C6 é um grande aumento de dano."
+   }
+  ]
+ },
+ {
+  "character": "Sucrose",
+  "roles": [
+   {
+    "name": "Suporte (Proficiência Elemental/agrupamento)",
+    "weapons": [
+     {
+      "name": "A Thousand Floating Dreams",
+      "note": "5★, compartilha Proficiência Elemental"
+     },
+     {
+      "name": "Sacrificial Fragments",
+      "note": "Ótima 4★: Proficiência e reuso da Habilidade"
+     },
+     {
+      "name": "Hakushin Ring",
+      "note": "Boa em equipes Eletro"
+     },
+     {
+      "name": "Mappa Mare",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Wandering Evenstar",
+      "note": "Boa 4★ de Proficiência Elemental"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Viridescent Venerer",
+        "pieces": 4
+       }
+      ],
+      "note": "Obrigatório: reduz RES do inimigo ao Redemoinho"
+     },
+     {
+      "sets": [
+       {
+        "name": "Viridescent Venerer",
+        "pieces": 2
+       },
+       {
+        "name": "Wanderer's Troupe",
+        "pieces": 2
+       }
+      ],
+      "note": "Só enquanto não tiver o 4 peças"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "eleMas",
+      "enerRech_"
+     ],
+     "goblet": [
+      "eleMas"
+     ],
+     "circlet": [
+      "eleMas"
+     ]
+    },
+    "substats": {
+     "eleMas": 1,
+     "enerRech_": 0.7,
+     "critRate_": 0.1
+    },
+    "erTarget": "140–160%",
+    "erMin": 140,
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "Monte tudo em Proficiência Elemental: os passivos dela repassam parte dessa PE para a equipe. Garanta Recarga para o Supremo e sempre faça Redemoinho com o elemento do seu DPS para aproveitar o Viridescent Venerer."
+   }
+  ]
+ },
+ {
+  "character": "Diluc",
+  "roles": [
+   {
+    "name": "DPS principal",
+    "weapons": [
+     {
+      "name": "Wolf's Gravestone",
+      "note": "5★, muito ATQ"
+     },
+     {
+      "name": "Beacon of the Reed Sea",
+      "note": "5★, boa opção"
+     },
+     {
+      "name": "Serpent Spine",
+      "note": "Ótima 4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Blackcliff Slasher",
+      "note": "4★, Dano Crítico"
+     },
+     {
+      "name": "Prototype Archaic",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Crimson Witch of Flames",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor para Vaporizar/Derreter"
+     },
+     {
+      "sets": [
+       {
+        "name": "Crimson Witch of Flames",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       },
+       {
+        "name": "Shimenawa's Reminiscence",
+        "pieces": 2
+       }
+      ],
+      "note": "ATQ% + ATQ%"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "pyro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.6,
+     "enerRech_": 0.3,
+     "atk": 0.25
+    },
+    "erTarget": "120–140%",
+    "erMin": 120,
+    "talentPriority": [
+     "skill",
+     "burst",
+     "auto"
+    ],
+    "tips": "Diluc brilha com reações: jogue com Xingqiu ou Yelan para Vaporizar e Bennett para buff. Use as três partes da Habilidade em sequência, intercaladas com Ataques Normais."
+   }
+  ]
+ },
+ {
+  "character": "Venti",
+  "roles": [
+   {
+    "name": "Suporte (agrupamento/Redemoinho)",
+    "weapons": [
+     {
+      "name": "Elegy for the End",
+      "note": "5★, ideal para suporte"
+     },
+     {
+      "name": "The Stringless",
+      "note": "Ótima 4★ para dano do Supremo"
+     },
+     {
+      "name": "Favonius Warbow",
+      "note": "Gera energia para a equipe"
+     },
+     {
+      "name": "Sacrificial Bow",
+      "note": "Reutiliza a Habilidade"
+     },
+     {
+      "name": "Windblume Ode",
+      "note": "Opção F2P (evento), Proficiência Elemental"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Viridescent Venerer",
+        "pieces": 4
+       }
+      ],
+      "note": "Obrigatório: reduz RES do inimigo"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "eleMas",
+      "enerRech_",
+      "atk_"
+     ],
+     "goblet": [
+      "anemo_dmg_",
+      "eleMas"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_",
+      "eleMas"
+     ]
+    },
+    "substats": {
+     "enerRech_": 0.8,
+     "eleMas": 0.8,
+     "critRate_": 0.6,
+     "critDMG_": 0.6,
+     "atk_": 0.4
+    },
+    "erTarget": "160–200%",
+    "erMin": 160,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O valor dele está no agrupamento do Supremo: posicione-o no centro dos inimigos e troque logo para o personagem do elemento que você quer absorver. Contra chefes pesados (que não são puxados) ele perde muito valor."
+   }
+  ]
+ },
+ {
+  "character": "Klee",
+  "roles": [
+   {
+    "name": "DPS principal",
+    "weapons": [
+     {
+      "name": "Lost Prayer to the Sacred Winds",
+      "note": "5★"
+     },
+     {
+      "name": "Kagura's Verity",
+      "note": "5★, boa opção"
+     },
+     {
+      "name": "Skyward Atlas",
+      "note": "5★"
+     },
+     {
+      "name": "The Widsith",
+      "note": "Boa 4★"
+     },
+     {
+      "name": "Dodoco Tales",
+      "note": "Opção F2P (evento), R5"
+     },
+     {
+      "name": "Mappa Mare",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Crimson Witch of Flames",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Crimson Witch of Flames",
+        "pieces": 2
+       },
+       {
+        "name": "Wanderer's Troupe",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa com PE"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "pyro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.6,
+     "enerRech_": 0.3,
+     "atk": 0.25
+    },
+    "erTarget": "120–140%",
+    "erMin": 120,
+    "talentPriority": [
+     "auto",
+     "skill",
+     "burst"
+    ],
+    "tips": "A rotação dela gira em torno de Ataques Normais com Ataques Carregados quando o passivo Explosive Frags ativa. Jogue com uma fonte de Hidro (Xingqiu, Yelan) para Vaporizar."
+   }
+  ]
+ },
+ {
+  "character": "Mona",
+  "roles": [
+   {
+    "name": "Suporte (buff/Hidro)",
+    "weapons": [
+     {
+      "name": "Skyward Atlas",
+      "note": "5★"
+     },
+     {
+      "name": "Favonius Codex",
+      "note": "Ótima: Recarga e energia para a equipe"
+     },
+     {
+      "name": "Prototype Amber",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Oathsworn Eye",
+      "note": "Boa 4★ de Recarga"
+     },
+     {
+      "name": "Sacrificial Fragments",
+      "note": "Reuso da Habilidade"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Padrão como suporte"
+     },
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Se for usar o Supremo para dano (nuke)"
+     },
+     {
+      "sets": [
+       {
+        "name": "Tenacity of the Millelith",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa de suporte"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_",
+      "atk_"
+     ],
+     "goblet": [
+      "hydro_dmg_",
+      "atk_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "enerRech_": 0.9,
+     "atk_": 0.6,
+     "atk": 0.2
+    },
+    "erTarget": "180–220%",
+    "erMin": 180,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O Supremo aplica o Presságio, que amplifica o dano recebido pelo inimigo — solte o golpe principal do seu DPS antes de ele estourar. Mona converte Recarga em Dano Hidro (passivo), então Recarga alta nunca é desperdício."
+   }
+  ]
+ },
+ {
+  "character": "Jean",
+  "roles": [
+   {
+    "name": "Suporte (cura/Redemoinho)",
+    "weapons": [
+     {
+      "name": "Freedom-Sworn",
+      "note": "5★, buff para a equipe"
+     },
+     {
+      "name": "Aquila Favonia",
+      "note": "5★, cura e dano"
+     },
+     {
+      "name": "Favonius Sword",
+      "note": "Melhor 4★: energia para a equipe"
+     },
+     {
+      "name": "Sacrificial Sword",
+      "note": "Reuso da Habilidade"
+     },
+     {
+      "name": "Iron Sting",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Viridescent Venerer",
+        "pieces": 4
+       }
+      ],
+      "note": "Se ninguém mais usar VV"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Para buff do Supremo"
+     },
+     {
+      "sets": [
+       {
+        "name": "Ocean-Hued Clam",
+        "pieces": 4
+       }
+      ],
+      "note": "Foco em cura"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_",
+      "atk_"
+     ],
+     "goblet": [
+      "anemo_dmg_",
+      "atk_"
+     ],
+     "circlet": [
+      "critRate_",
+      "heal_"
+     ]
+    },
+    "substats": {
+     "enerRech_": 1,
+     "atk_": 0.8,
+     "critRate_": 0.6,
+     "critDMG_": 0.5,
+     "heal_": 0.2,
+     "atk": 0.2
+    },
+    "erTarget": "180–220%",
+    "erMin": 180,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "A cura dela escala com ATQ, então ATQ% e Recarga são os principais. O Supremo cura muito e o campo dele também aplica Anemo para Redemoinho."
+   }
+  ]
+ },
+ {
+  "character": "Albedo",
+  "roles": [
+   {
+    "name": "Sub-DPS Geo",
+    "weapons": [
+     {
+      "name": "Uraku Misugiri",
+      "note": "5★, escala com DEF"
+     },
+     {
+      "name": "Primordial Jade Cutter",
+      "note": "5★, Taxa Crítica"
+     },
+     {
+      "name": "Cinnabar Spindle",
+      "note": "Melhor 4★ (evento)"
+     },
+     {
+      "name": "Flute of Ezpitzal",
+      "note": "Opção F2P forjável, DEF%"
+     },
+     {
+      "name": "Favonius Sword",
+      "note": "Opção se precisar de energia"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Golden Troupe",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor: aumenta o dano da Habilidade"
+     },
+     {
+      "sets": [
+       {
+        "name": "Husk of Opulent Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Muito boa, DEF%"
+     },
+     {
+      "sets": [
+       {
+        "name": "Archaic Petra",
+        "pieces": 2
+       },
+       {
+        "name": "Husk of Opulent Dreams",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "def_"
+     ],
+     "goblet": [
+      "geo_dmg_",
+      "def_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "def_": 0.75,
+     "enerRech_": 0.2,
+     "def": 0.3
+    },
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "O dano dele está quase todo na flor da Habilidade, que escala com DEF — por isso DEF% na ampulheta. Coloque a Habilidade uma vez e jogue com outro DPS em campo."
+   }
+  ]
+ },
+ {
+  "character": "Eula",
+  "roles": [
+   {
+    "name": "DPS principal (Físico)",
+    "weapons": [
+     {
+      "name": "Song of Broken Pines",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Wolf's Gravestone",
+      "note": "5★"
+     },
+     {
+      "name": "Skyward Pride",
+      "note": "5★"
+     },
+     {
+      "name": "Serpent Spine",
+      "note": "Ótima 4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Snow-Tombed Starsilver",
+      "note": "Opção F2P forjável, Dano Físico"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Pale Flame",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Pale Flame",
+        "pieces": 2
+       },
+       {
+        "name": "Bloodstained Chivalry",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_"
+     ],
+     "goblet": [
+      "physical_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "enerRech_": 0.4,
+     "atk": 0.25
+    },
+    "erTarget": "120–140%",
+    "erMin": 120,
+    "talentPriority": [
+     "burst",
+     "skill",
+     "auto"
+    ],
+    "tips": "Use o Supremo e acumule o máximo de Ataques Normais/Habilidades até a lâmina explodir. Jogue com Raiden ou outro Eletro para Supercondutor (reduz RES Física)."
+   }
+  ]
+ },
+ {
+  "character": "Kaeya",
+  "roles": [
+   {
+    "name": "Sub-DPS Crio",
+    "weapons": [
+     {
+      "name": "Mistsplitter Reforged",
+      "note": "5★"
+     },
+     {
+      "name": "Haran Geppaku Futsu",
+      "note": "5★"
+     },
+     {
+      "name": "Sacrificial Sword",
+      "note": "Ótima 4★: reuso e energia"
+     },
+     {
+      "name": "Amenoma Kageuchi",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Favonius Sword",
+      "note": "Energia para a equipe"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor para dano do Supremo"
+     },
+     {
+      "sets": [
+       {
+        "name": "Blizzard Strayer",
+        "pieces": 4
+       }
+      ],
+      "note": "Em equipes de Congelar"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Como suporte"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "cryo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "enerRech_": 0.6,
+     "eleMas": 0.3,
+     "atk": 0.25
+    },
+    "erTarget": "140–180%",
+    "erMin": 140,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O Supremo dele é o dano principal; garanta Recarga para usá-lo toda rotação. Funciona bem em Congelar e como aplicador de Crio para Derreter."
+   }
+  ]
+ },
+ {
+  "character": "Rosaria",
+  "roles": [
+   {
+    "name": "Sub-DPS/Suporte Crio",
+    "weapons": [
+     {
+      "name": "Favonius Lance",
+      "note": "Ótima: energia para a equipe"
+     },
+     {
+      "name": "Deathmatch",
+      "note": "Boa 4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Staff of Homa",
+      "note": "5★"
+     },
+     {
+      "name": "Primordial Jade Winged-Spear",
+      "note": "5★"
+     },
+     {
+      "name": "\"The Catch\"",
+      "note": "Opção F2P (pesca), Supremo"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Como suporte"
+     },
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Foco em dano do Supremo"
+     },
+     {
+      "sets": [
+       {
+        "name": "Blizzard Strayer",
+        "pieces": 4
+       }
+      ],
+      "note": "Em equipes de Congelar"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "cryo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "enerRech_": 0.6,
+     "atk": 0.25
+    },
+    "erTarget": "140–160%",
+    "erMin": 140,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "Ataque o inimigo pelas costas com a Habilidade para ganhar Taxa Crítica; o passivo dela repassa parte da Taxa Crítica dela para a equipe durante o Supremo — por isso Taxa Crítica é prioridade."
+   }
+  ]
+ },
+ {
+  "character": "Diona",
+  "roles": [
+   {
+    "name": "Suporte (escudo/cura)",
+    "weapons": [
+     {
+      "name": "Sacrificial Bow",
+      "note": "Melhor: reuso da Habilidade"
+     },
+     {
+      "name": "Favonius Warbow",
+      "note": "Energia para a equipe"
+     },
+     {
+      "name": "Elegy for the End",
+      "note": "5★, buff para a equipe"
+     },
+     {
+      "name": "Prototype Crescent",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Buff de ATQ"
+     },
+     {
+      "sets": [
+       {
+        "name": "Tenacity of the Millelith",
+        "pieces": 4
+       }
+      ],
+      "note": "Buff de ATQ e escudo"
+     },
+     {
+      "sets": [
+       {
+        "name": "Ocean-Hued Clam",
+        "pieces": 4
+       }
+      ],
+      "note": "Foco em cura"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "hp_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "hp_"
+     ],
+     "circlet": [
+      "heal_",
+      "hp_"
+     ]
+    },
+    "substats": {
+     "hp_": 1,
+     "enerRech_": 0.8,
+     "critRate_": 0.1,
+     "hp": 0.3
+    },
+    "erTarget": "160–200%",
+    "erMin": 160,
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "Escudo e cura escalam com HP. Segure a Habilidade para um escudo maior; o Supremo cura em área e aplica bastante Crio para Congelar."
+   }
+  ]
+ },
+ {
+  "character": "Noelle",
+  "roles": [
+   {
+    "name": "DPS principal Geo",
+    "weapons": [
+     {
+      "name": "Redhorn Stonethresher",
+      "note": "5★, escala com DEF"
+     },
+     {
+      "name": "Serpent Spine",
+      "note": "Ótima 4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Whiteblind",
+      "note": "Opção F2P forjável, DEF%"
+     },
+     {
+      "name": "Blackcliff Slasher",
+      "note": "4★, Dano Crítico"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Husk of Opulent Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Husk of Opulent Dreams",
+        "pieces": 2
+       },
+       {
+        "name": "Archaic Petra",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "def_"
+     ],
+     "goblet": [
+      "geo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "def_": 0.75,
+     "enerRech_": 0.3,
+     "def": 0.3
+    },
+    "erTarget": "130–150%",
+    "erMin": 130,
+    "talentPriority": [
+     "burst",
+     "auto",
+     "skill"
+    ],
+    "tips": "O Supremo converte DEF em ATQ e infunde Geo, então DEF% é o status principal. Gorou é o parceiro ideal; a C6 é um grande aumento de dano."
+   }
+  ]
+ },
+ {
+  "character": "Barbara",
+  "roles": [
+   {
+    "name": "Suporte (cura)",
+    "weapons": [
+     {
+      "name": "Prototype Amber",
+      "note": "Opção F2P forjável, HP% e cura"
+     },
+     {
+      "name": "Everlasting Moonglow",
+      "note": "5★, HP% e cura"
+     },
+     {
+      "name": "Favonius Codex",
+      "note": "Energia para a equipe"
+     },
+     {
+      "name": "Sacrificial Fragments",
+      "note": "Reuso da Habilidade"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Ocean-Hued Clam",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor para cura"
+     },
+     {
+      "sets": [
+       {
+        "name": "Maiden Beloved",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Tenacity of the Millelith",
+        "pieces": 4
+       }
+      ],
+      "note": "Buff de ATQ para a equipe"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "hp_"
+     ],
+     "goblet": [
+      "hp_"
+     ],
+     "circlet": [
+      "heal_",
+      "hp_"
+     ]
+    },
+    "substats": {
+     "hp_": 1,
+     "enerRech_": 0.6,
+     "hp": 0.3
+    },
+    "erTarget": "130–160%",
+    "erMin": 130,
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "A cura escala com HP. Mantenha a Habilidade ativa para cura contínua no personagem em campo; o Supremo é uma cura de emergência."
+   }
+  ]
+ },
+ {
+  "character": "Xiangling",
+  "roles": [
+   {
+    "name": "Sub-DPS Pyro",
+    "weapons": [
+     {
+      "name": "Engulfing Lightning",
+      "note": "5★, Recarga e ATQ"
+     },
+     {
+      "name": "Staff of Homa",
+      "note": "5★"
+     },
+     {
+      "name": "\"The Catch\"",
+      "note": "Melhor F2P (pesca), R5"
+     },
+     {
+      "name": "Dragon's Bane",
+      "note": "Ótima para Vaporizar"
+     },
+     {
+      "name": "Kitain Cross Spear",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Favonius Lance",
+      "note": "Energia para a equipe"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set na maioria das equipes"
+     },
+     {
+      "sets": [
+       {
+        "name": "Crimson Witch of Flames",
+        "pieces": 2
+       },
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gilded Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Em equipes de Vaporizar/Derreter com muitos reagentes"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_",
+      "eleMas",
+      "atk_"
+     ],
+     "goblet": [
+      "pyro_dmg_",
+      "eleMas"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "enerRech_": 0.8,
+     "atk_": 0.6,
+     "eleMas": 0.6,
+     "atk": 0.2
+    },
+    "erTarget": "180–250% (depende da equipe)",
+    "erMin": 180,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O dano dela está no Supremo (Pyronado); se faltar Recarga ela não usa o Supremo e a equipe desaba. Pegue a pimenta que o Guoba deixa para ganhar ATQ. Com Raiden ou Bennett+Guoba bem posicionados a meta de Recarga cai."
+   }
+  ]
+ },
+ {
+  "character": "Xingqiu",
+  "roles": [
+   {
+    "name": "Sub-DPS Hidro",
+    "weapons": [
+     {
+      "name": "Primordial Jade Cutter",
+      "note": "5★"
+     },
+     {
+      "name": "Mistsplitter Reforged",
+      "note": "5★"
+     },
+     {
+      "name": "Sacrificial Sword",
+      "note": "Ótima 4★: reuso da Habilidade"
+     },
+     {
+      "name": "Fleuve Cendre Ferryman",
+      "note": "Opção F2P (evento), Recarga"
+     },
+     {
+      "name": "Wolf-Fang",
+      "note": "Boa 4★"
+     },
+     {
+      "name": "Favonius Sword",
+      "note": "Energia para a equipe"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Heart of Depth",
+        "pieces": 2
+       },
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Se ninguém mais usar Noblesse"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "hydro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "enerRech_": 0.75,
+     "atk": 0.25
+    },
+    "erTarget": "160–200%",
+    "erMin": 160,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "Use Habilidade e Supremo e troque para o DPS: as espadas de chuva atacam junto com os Ataques Normais do personagem em campo. A C2 (reduz RES Hidro) e a C6 (mais espadas e energia) são grandes melhorias."
+   }
+  ]
+ },
+ {
+  "character": "Zhongli",
+  "roles": [
+   {
+    "name": "Suporte (escudo)",
+    "weapons": [
+     {
+      "name": "Staff of Homa",
+      "note": "5★, HP alto"
+     },
+     {
+      "name": "Favonius Lance",
+      "note": "Energia para a equipe"
+     },
+     {
+      "name": "Prototype Starglitter",
+      "note": "Opção F2P forjável, Recarga"
+     },
+     {
+      "name": "Kitain Cross Spear",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Tenacity of the Millelith",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor para suporte"
+     },
+     {
+      "sets": [
+       {
+        "name": "Archaic Petra",
+        "pieces": 4
+       }
+      ],
+      "note": "Se houver Cristalizar"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Buff de ATQ pelo Supremo"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "hp_"
+     ],
+     "goblet": [
+      "hp_",
+      "geo_dmg_"
+     ],
+     "circlet": [
+      "hp_",
+      "critRate_"
+     ]
+    },
+    "substats": {
+     "hp_": 1,
+     "enerRech_": 0.4,
+     "critRate_": 0.4,
+     "critDMG_": 0.4,
+     "hp": 0.3
+    },
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "O escudo escala com HP — monte HP% em todas as peças principais. O escudo reduz a RES de todos os elementos dos inimigos próximos em 20%, então ele é suporte universal. Segure a Habilidade para criar o escudo."
+   }
+  ]
+ },
+ {
+  "character": "Ganyu",
+  "roles": [
+   {
+    "name": "DPS principal (Ataque Carregado)",
+    "weapons": [
+     {
+      "name": "Amos' Bow",
+      "note": "5★"
+     },
+     {
+      "name": "Aqua Simulacra",
+      "note": "5★"
+     },
+     {
+      "name": "Hunter's Path",
+      "note": "5★"
+     },
+     {
+      "name": "Prototype Crescent",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Hamayumi",
+      "note": "Boa 4★ forjável"
+     },
+     {
+      "name": "Blackcliff Warbow",
+      "note": "4★, Dano Crítico"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Wanderer's Troupe",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor em Derreter"
+     },
+     {
+      "sets": [
+       {
+        "name": "Blizzard Strayer",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor em Congelar"
+     },
+     {
+      "sets": [
+       {
+        "name": "Shimenawa's Reminiscence",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "cryo_dmg_"
+     ],
+     "circlet": [
+      "critDMG_",
+      "critRate_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.5,
+     "enerRech_": 0.2,
+     "atk": 0.25
+    },
+    "talentPriority": [
+     "auto",
+     "burst",
+     "skill"
+    ],
+    "tips": "Em Congelar ela precisa de pouca Taxa Crítica (o Blizzard Strayer dá até 40%), então foque Dano Crítico. Em Derreter, equilibre Taxa/Dano Crítico e use Proficiência Elemental na ampulheta."
+   }
+  ]
+ },
+ {
+  "character": "Hu Tao",
+  "roles": [
+   {
+    "name": "DPS principal",
+    "weapons": [
+     {
+      "name": "Staff of Homa",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Crimson Moon's Semblance",
+      "note": "5★, muito forte"
+     },
+     {
+      "name": "Dragon's Bane",
+      "note": "Ótima 4★ para Vaporizar"
+     },
+     {
+      "name": "Deathmatch",
+      "note": "4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Ballad of the Fjords",
+      "note": "Opção F2P de Proficiência Elemental"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Crimson Witch of Flames",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor para Vaporizar"
+     },
+     {
+      "sets": [
+       {
+        "name": "Shimenawa's Reminiscence",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Marechaussee Hunter",
+        "pieces": 4
+       }
+      ],
+      "note": "Com variações de HP constantes na equipe"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "hp_",
+      "eleMas"
+     ],
+     "goblet": [
+      "pyro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "hp_": 0.75,
+     "eleMas": 0.75,
+     "atk_": 0.4,
+     "hp": 0.3
+    },
+    "talentPriority": [
+     "auto",
+     "skill",
+     "burst"
+    ],
+    "tips": "Ela fica mais forte com HP abaixo de 50%. Jogue com Xingqiu/Yelan para Vaporizar e cancele o Ataque Carregado com pulo/dash. Recarga não importa."
+   }
+  ]
+ },
+ {
+  "character": "Xiao",
+  "roles": [
+   {
+    "name": "DPS principal",
+    "weapons": [
+     {
+      "name": "Primordial Jade Winged-Spear",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Staff of Homa",
+      "note": "5★"
+     },
+     {
+      "name": "Calamity Queller",
+      "note": "5★"
+     },
+     {
+      "name": "Blackcliff Pole",
+      "note": "4★, Dano Crítico"
+     },
+     {
+      "name": "Deathmatch",
+      "note": "4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Missive Windspear",
+      "note": "Opção F2P (evento)"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Vermillion Hereafter",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       },
+       {
+        "name": "Viridescent Venerer",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_"
+     ],
+     "goblet": [
+      "anemo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "enerRech_": 0.4,
+     "atk": 0.25
+    },
+    "erTarget": "120–140%",
+    "erMin": 120,
+    "talentPriority": [
+     "burst",
+     "auto",
+     "skill"
+    ],
+    "tips": "Durante o Supremo ele faz Ataques Mergulhantes em sequência. Xianyun é a parceira ideal; Faruzan também ajuda muito. Use a Habilidade antes do Supremo para gerar energia."
+   }
+  ]
+ },
+ {
+  "character": "Keqing",
+  "roles": [
+   {
+    "name": "DPS principal",
+    "weapons": [
+     {
+      "name": "Mistsplitter Reforged",
+      "note": "5★"
+     },
+     {
+      "name": "Primordial Jade Cutter",
+      "note": "5★"
+     },
+     {
+      "name": "Lion's Roar",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Iron Sting",
+      "note": "Opção F2P forjável, boa em Agravar"
+     },
+     {
+      "name": "The Black Sword",
+      "note": "4★ (Passe de Batalha)"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Gilded Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor em Agravar"
+     },
+     {
+      "sets": [
+       {
+        "name": "Thundering Fury",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       },
+       {
+        "name": "Thundering Fury",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "electro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.6,
+     "enerRech_": 0.2,
+     "atk": 0.25
+    },
+    "talentPriority": [
+     "skill",
+     "burst",
+     "auto"
+    ],
+    "tips": "Ela brilha em Agravar com Nahida e Fischl. Use a Habilidade duas vezes (estigma + teleporte) para ganhar infusão Eletro e alterne Ataques Normais e Carregados."
+   }
+  ]
+ },
+ {
+  "character": "Beidou",
+  "roles": [
+   {
+    "name": "Sub-DPS Eletro",
+    "weapons": [
+     {
+      "name": "Serpent Spine",
+      "note": "Ótima 4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Wolf's Gravestone",
+      "note": "5★"
+     },
+     {
+      "name": "The Unforged",
+      "note": "5★"
+     },
+     {
+      "name": "Akuoumaru",
+      "note": "Boa 4★ para o Supremo"
+     },
+     {
+      "name": "Favonius Greatsword",
+      "note": "Energia para a equipe"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Como suporte"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "electro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "enerRech_": 0.75,
+     "atk": 0.25
+    },
+    "erTarget": "160–200%",
+    "erMin": 160,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O Supremo dela causa dano extra a cada ataque do personagem ativo. Tente contra-atacar com a Habilidade no momento de receber golpes para dano maior e mais energia."
+   }
+  ]
+ },
+ {
+  "character": "Yelan",
+  "roles": [
+   {
+    "name": "Sub-DPS Hidro",
+    "weapons": [
+     {
+      "name": "Aqua Simulacra",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Elegy for the End",
+      "note": "5★"
+     },
+     {
+      "name": "Favonius Warbow",
+      "note": "Ótima 4★: energia"
+     },
+     {
+      "name": "Fading Twilight",
+      "note": "Boa 4★ (evento)"
+     },
+     {
+      "name": "Sacrificial Bow",
+      "note": "Reuso da Habilidade"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Heart of Depth",
+        "pieces": 2
+       },
+       {
+        "name": "Tenacity of the Millelith",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "hp_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "hydro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "hp_": 0.75,
+     "enerRech_": 0.6,
+     "hp": 0.25
+    },
+    "erTarget": "140–180%",
+    "erMin": 140,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O dano dela escala com HP, e o passivo dá mais HP conforme o número de elementos diferentes na equipe. Fique atento à Recarga: o Supremo é a principal fonte de dano."
+   }
+  ]
+ },
+ {
+  "character": "Shenhe",
+  "roles": [
+   {
+    "name": "Suporte (buff Crio)",
+    "weapons": [
+     {
+      "name": "Calamity Queller",
+      "note": "5★"
+     },
+     {
+      "name": "Skyward Spine",
+      "note": "5★"
+     },
+     {
+      "name": "Favonius Lance",
+      "note": "Ótima 4★: energia"
+     },
+     {
+      "name": "Kitain Cross Spear",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Deathmatch",
+      "note": "4★ (Passe de Batalha)"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Padrão"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       },
+       {
+        "name": "Shimenawa's Reminiscence",
+        "pieces": 2
+       }
+      ],
+      "note": "ATQ% + ATQ%"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "atk_"
+     ],
+     "circlet": [
+      "atk_"
+     ]
+    },
+    "substats": {
+     "atk_": 1,
+     "enerRech_": 0.8,
+     "atk": 0.3,
+     "critRate_": 0.1
+    },
+    "erTarget": "130–160%",
+    "erMin": 130,
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "O buff dela (Penas de Gelo) escala com ATQ, por isso ATQ% em todas as peças principais. Segure a Habilidade para gerar mais cargas quando o DPS acerta muitas vezes (ex.: Ayaka)."
+   }
+  ]
+ },
+ {
+  "character": "Tartaglia",
+  "roles": [
+   {
+    "name": "DPS principal Hidro",
+    "weapons": [
+     {
+      "name": "Polar Star",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Thundering Pulse",
+      "note": "5★"
+     },
+     {
+      "name": "Aqua Simulacra",
+      "note": "5★"
+     },
+     {
+      "name": "Rust",
+      "note": "Boa 4★ de Ataque Normal"
+     },
+     {
+      "name": "Prototype Crescent",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Nymph's Dream",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Heart of Depth",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa muito próxima"
+     },
+     {
+      "sets": [
+       {
+        "name": "Heart of Depth",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "hydro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.5,
+     "enerRech_": 0.3,
+     "atk": 0.25
+    },
+    "erTarget": "120–140%",
+    "erMin": 120,
+    "talentPriority": [
+     "skill",
+     "burst",
+     "auto"
+    ],
+    "tips": "Os ataques na forma corpo a corpo escalam com a Habilidade, não com o Ataque Normal. A equipe clássica é a \"Childe Internacional\" (Xiangling, Bennett, Kazuha). Use o Supremo na forma corpo a corpo para reduzir o tempo de recarga da Habilidade."
+   }
+  ]
+ },
+ {
+  "character": "Xianyun",
+  "roles": [
+   {
+    "name": "Suporte (Mergulho/cura)",
+    "weapons": [
+     {
+      "name": "Crane's Echoing Call",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Favonius Codex",
+      "note": "Ótima 4★: energia"
+     },
+     {
+      "name": "Sacrificial Fragments",
+      "note": "Reuso da Habilidade"
+     },
+     {
+      "name": "Prototype Amber",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Viridescent Venerer",
+        "pieces": 4
+       }
+      ],
+      "note": "Se ninguém mais usar VV"
+     },
+     {
+      "sets": [
+       {
+        "name": "Song of Days Past",
+        "pieces": 4
+       }
+      ],
+      "note": "Aumenta o dano do Mergulho do DPS"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Buff de ATQ"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "atk_"
+     ],
+     "circlet": [
+      "atk_",
+      "heal_"
+     ]
+    },
+    "substats": {
+     "atk_": 1,
+     "enerRech_": 0.8,
+     "atk": 0.3,
+     "critRate_": 0.2
+    },
+    "erTarget": "160–200%",
+    "erMin": 160,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "O buff de Ataque Mergulhante escala com o ATQ dela, então ATQ% é tudo. Ótima com Xiao, Gaming e outros que atacam caindo."
+   }
+  ]
+ },
+ {
+  "character": "Raiden Shogun",
+  "roles": [
+   {
+    "name": "DPS principal",
+    "weapons": [
+     {
+      "name": "Engulfing Lightning",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Staff of Homa",
+      "note": "5★"
+     },
+     {
+      "name": "\"The Catch\"",
+      "note": "Melhor F2P (pesca), R5"
+     },
+     {
+      "name": "Kitain Cross Spear",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Favonius Lance",
+      "note": "Energia para a equipe"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_",
+      "atk_"
+     ],
+     "goblet": [
+      "electro_dmg_",
+      "atk_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "enerRech_": 0.75,
+     "atk_": 0.75,
+     "atk": 0.25
+    },
+    "erTarget": "250–270%",
+    "erMin": 250,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "A Recarga aumenta o dano Eletro dela (passivo), então Recarga na ampulheta é o padrão. Jogue com Bennett, Xiangling e Xingqiu (Raiden Nacional)."
+   },
+   {
+    "name": "Bateria de energia",
+    "weapons": [
+     {
+      "name": "Engulfing Lightning",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Favonius Lance",
+      "note": "Ótima: mais energia para a equipe"
+     },
+     {
+      "name": "\"The Catch\"",
+      "note": "Opção F2P (pesca)"
+     },
+     {
+      "name": "Kitain Cross Spear",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Emblem of Severed Fate",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Noblesse Oblige",
+        "pieces": 4
+       }
+      ],
+      "note": "Se ninguém mais usar Noblesse"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_"
+     ],
+     "goblet": [
+      "electro_dmg_",
+      "atk_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "enerRech_": 1,
+     "atk_": 0.5,
+     "atk": 0.2
+    },
+    "erTarget": "250–270%",
+    "erMin": 250,
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "A Habilidade dá bônus de dano de Supremo à equipe e o Supremo devolve energia aos aliados. Use o Supremo dela no fim da rotação para recarregar todos."
+   }
+  ]
+ },
+ {
+  "character": "Kaedehara Kazuha",
+  "roles": [
+   {
+    "name": "Suporte (Redemoinho/buff)",
+    "weapons": [
+     {
+      "name": "Freedom-Sworn",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Xiphos' Moonlight",
+      "note": "Ótima 4★: energia"
+     },
+     {
+      "name": "Iron Sting",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Favonius Sword",
+      "note": "Energia para a equipe"
+     },
+     {
+      "name": "Sacrificial Sword",
+      "note": "Reuso da Habilidade"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Viridescent Venerer",
+        "pieces": 4
+       }
+      ],
+      "note": "Obrigatório"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "eleMas"
+     ],
+     "goblet": [
+      "eleMas"
+     ],
+     "circlet": [
+      "eleMas"
+     ]
+    },
+    "substats": {
+     "eleMas": 1,
+     "enerRech_": 0.7,
+     "critRate_": 0.1
+    },
+    "erTarget": "140–180%",
+    "erMin": 140,
+    "talentPriority": [
+     "burst",
+     "skill"
+    ],
+    "tips": "Cada ponto de Proficiência Elemental vira bônus de dano elemental para a equipe (passivo), então PE em tudo. Sempre faça Redemoinho com o elemento do seu DPS antes de ele atacar."
+   }
+  ]
+ },
+ {
+  "character": "Kamisato Ayaka",
+  "roles": [
+   {
+    "name": "DPS principal (Congelar)",
+    "weapons": [
+     {
+      "name": "Mistsplitter Reforged",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Haran Geppaku Futsu",
+      "note": "5★"
+     },
+     {
+      "name": "Primordial Jade Cutter",
+      "note": "5★"
+     },
+     {
+      "name": "Amenoma Kageuchi",
+      "note": "Opção F2P forjável, energia"
+     },
+     {
+      "name": "Finale of the Deep",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Blackcliff Longsword",
+      "note": "4★, Dano Crítico"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Blizzard Strayer",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Blizzard Strayer",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_"
+     ],
+     "goblet": [
+      "cryo_dmg_"
+     ],
+     "circlet": [
+      "critDMG_",
+      "critRate_"
+     ]
+    },
+    "substats": {
+     "critDMG_": 1,
+     "critRate_": 0.8,
+     "atk_": 0.75,
+     "enerRech_": 0.5,
+     "atk": 0.25
+    },
+    "erTarget": "120–140%",
+    "erMin": 120,
+    "talentPriority": [
+     "burst",
+     "skill",
+     "auto"
+    ],
+    "tips": "Em Congelar ela ganha até 40% de Taxa Crítica do Blizzard Strayer, então foque Dano Crítico. Shenhe e Kazuha são as melhores parceiras."
+   }
+  ]
+ },
+ {
+  "character": "Kamisato Ayato",
+  "roles": [
+   {
+    "name": "DPS principal Hidro",
+    "weapons": [
+     {
+      "name": "Haran Geppaku Futsu",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Mistsplitter Reforged",
+      "note": "5★"
+     },
+     {
+      "name": "Primordial Jade Cutter",
+      "note": "5★"
+     },
+     {
+      "name": "Amenoma Kageuchi",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "The Black Sword",
+      "note": "4★ (Passe de Batalha)"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Echoes of an Offering",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Heart of Depth",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Heart of Depth",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_"
+     ],
+     "goblet": [
+      "hydro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.3,
+     "enerRech_": 0.4,
+     "atk": 0.25
+    },
+    "erTarget": "130–150%",
+    "erMin": 130,
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "Durante a Habilidade os Ataques Normais viram cortes Hidro que ganham dano extra baseado no HP Máximo dele. Funciona bem em Hiperflorescer e com Furina."
+   }
+  ]
+ },
+ {
+  "character": "Yoimiya",
+  "roles": [
+   {
+    "name": "DPS principal Pyro",
+    "weapons": [
+     {
+      "name": "Thundering Pulse",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Aqua Simulacra",
+      "note": "5★"
+     },
+     {
+      "name": "Rust",
+      "note": "Ótima 4★ para Ataque Normal"
+     },
+     {
+      "name": "Hamayumi",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Prototype Crescent",
+      "note": "Opção F2P forjável"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Shimenawa's Reminiscence",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Echoes of an Offering",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     },
+     {
+      "sets": [
+       {
+        "name": "Shimenawa's Reminiscence",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "pyro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.5,
+     "enerRech_": 0.2,
+     "atk": 0.25
+    },
+    "talentPriority": [
+     "skill",
+     "auto",
+     "burst"
+    ],
+    "tips": "A Habilidade transforma os Ataques Normais em flechas Pyro e o multiplicador vem do talento da Habilidade. Jogue com Yelan/Xingqiu para Vaporizar e um escudo (Zhongli) para não ser interrompida."
+   }
+  ]
+ },
+ {
+  "character": "Sangonomiya Kokomi",
+  "roles": [
+   {
+    "name": "Suporte (cura Hidro)",
+    "weapons": [
+     {
+      "name": "Everlasting Moonglow",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Jadefall's Splendor",
+      "note": "5★"
+     },
+     {
+      "name": "Prototype Amber",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Favonius Codex",
+      "note": "Energia para a equipe"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Ocean-Hued Clam",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor como curandeira"
+     },
+     {
+      "sets": [
+       {
+        "name": "Tenacity of the Millelith",
+        "pieces": 4
+       }
+      ],
+      "note": "Buff de ATQ para a equipe"
+     },
+     {
+      "sets": [
+       {
+        "name": "Flower of Paradise Lost",
+        "pieces": 4
+       }
+      ],
+      "note": "Em equipes de Florescer"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "hp_"
+     ],
+     "goblet": [
+      "hydro_dmg_",
+      "hp_"
+     ],
+     "circlet": [
+      "heal_"
+     ]
+    },
+    "substats": {
+     "hp_": 1,
+     "enerRech_": 0.5,
+     "eleMas": 0.4,
+     "hp": 0.3
+    },
+    "talentPriority": [
+     "skill",
+     "burst",
+     "auto"
+    ],
+    "tips": "Ela tem -100% de Taxa Crítica: ignore crítico completamente e foque HP% e Bônus de Cura. A medusa da Habilidade aplica Hidro constante, ótima para Florescer e Eletro-Carregado."
+   }
+  ]
+ },
+ {
+  "character": "Arataki Itto",
+  "roles": [
+   {
+    "name": "DPS principal Geo",
+    "weapons": [
+     {
+      "name": "Redhorn Stonethresher",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Serpent Spine",
+      "note": "Ótima 4★ (Passe de Batalha)"
+     },
+     {
+      "name": "Whiteblind",
+      "note": "Opção F2P forjável, DEF%"
+     },
+     {
+      "name": "Blackcliff Slasher",
+      "note": "4★, Dano Crítico"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Husk of Opulent Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Husk of Opulent Dreams",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "def_"
+     ],
+     "goblet": [
+      "geo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "def_": 0.75,
+     "enerRech_": 0.3,
+     "def": 0.3
+    },
+    "erTarget": "130–150%",
+    "erMin": 130,
+    "talentPriority": [
+     "burst",
+     "auto",
+     "skill"
+    ],
+    "tips": "Acumule cargas com Ataques Normais e solte o Ataque Carregado contínuo (Arataki Kesagiri). Gorou é essencial; Zhongli ou Albedo completam a equipe Mono Geo."
+   }
+  ]
+ },
+ {
+  "character": "Yae Miko",
+  "roles": [
+   {
+    "name": "Sub-DPS Eletro",
+    "weapons": [
+     {
+      "name": "Kagura's Verity",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Skyward Atlas",
+      "note": "5★"
+     },
+     {
+      "name": "The Widsith",
+      "note": "Boa 4★"
+     },
+     {
+      "name": "Oathsworn Eye",
+      "note": "Opção F2P, Recarga"
+     },
+     {
+      "name": "Sacrificial Fragments",
+      "note": "Reuso da Habilidade"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Golden Troupe",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gilded Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Em Agravar"
+     },
+     {
+      "sets": [
+       {
+        "name": "Thundering Fury",
+        "pieces": 2
+       },
+       {
+        "name": "Gladiator's Finale",
+        "pieces": 2
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "electro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.75,
+     "eleMas": 0.5,
+     "enerRech_": 0.4,
+     "atk": 0.25
+    },
+    "erTarget": "120–140%",
+    "erMin": 120,
+    "talentPriority": [
+     "skill",
+     "burst"
+    ],
+    "tips": "Coloque os três totens (Habilidade), use o Supremo para destruí-los e recoloque-os logo depois. Funciona muito bem em Agravar e Hiperflorescer."
+   }
+  ]
+ },
+ {
+  "character": "Kuki Shinobu",
+  "roles": [
+   {
+    "name": "Suporte (Hiperflorescer/cura)",
+    "weapons": [
+     {
+      "name": "Freedom-Sworn",
+      "note": "5★"
+     },
+     {
+      "name": "Xiphos' Moonlight",
+      "note": "Ótima 4★: Proficiência e energia"
+     },
+     {
+      "name": "Iron Sting",
+      "note": "Opção F2P forjável"
+     },
+     {
+      "name": "Toukabou Shigure",
+      "note": "Opção F2P (evento), Proficiência Elemental"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Flower of Paradise Lost",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor para Hiperflorescer"
+     },
+     {
+      "sets": [
+       {
+        "name": "Gilded Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "eleMas"
+     ],
+     "goblet": [
+      "eleMas"
+     ],
+     "circlet": [
+      "eleMas"
+     ]
+    },
+    "substats": {
+     "eleMas": 1,
+     "hp_": 0.5,
+     "enerRech_": 0.3
+    },
+    "talentPriority": [
+     "skill"
+    ],
+    "tips": "Em Hiperflorescer o dano vem da Proficiência Elemental, então PE em todas as peças. Se ela for a única curandeira, algumas peças com HP% ajudam a manter a equipe viva."
+   }
+  ]
+ },
+ {
+  "character": "Chiori",
+  "roles": [
+   {
+    "name": "Sub-DPS Geo",
+    "weapons": [
+     {
+      "name": "Uraku Misugiri",
+      "note": "5★, assinatura"
+     },
+     {
+      "name": "Cinnabar Spindle",
+      "note": "Ótima 4★ (evento)"
+     },
+     {
+      "name": "Flute of Ezpitzal",
+      "note": "Opção F2P forjável, DEF%"
+     },
+     {
+      "name": "Favonius Sword",
+      "note": "Opção se precisar de energia"
+     }
+    ],
+    "artifactSets": [
+     {
+      "sets": [
+       {
+        "name": "Golden Troupe",
+        "pieces": 4
+       }
+      ],
+      "note": "Melhor set"
+     },
+     {
+      "sets": [
+       {
+        "name": "Husk of Opulent Dreams",
+        "pieces": 4
+       }
+      ],
+      "note": "Alternativa"
+     }
+    ],
+    "mainStats": {
+     "sands": [
+      "def_"
+     ],
+     "goblet": [
+      "geo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "substats": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "def_": 0.75,
+     "atk_": 0.4,
+     "def": 0.3
+    },
+    "talentPriority": [
+     "skill",
+     "auto",
+     "burst"
+    ],
+    "tips": "O dano dos bonecos escala com ATQ e DEF; use DEF% na ampulheta. O segundo boneco aparece quando há construções Geo em campo (ex.: Zhongli, Albedo, Navia)."
+   }
+  ]
+ }
+]
